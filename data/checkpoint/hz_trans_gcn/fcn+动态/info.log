@@ -1,0 +1,1175 @@
+2023-02-24 19:17:19,456 - __main__ - INFO - Log directory: data/checkpoint/hz_trans_gcn\trans_gcn_k3_0224191719/
+2023-02-24 19:17:52,625 - __main__ - INFO - Epoch:0, train_mae:82.03, val_mae:42.71706771850586, lr=[0.001], time_elapsed:31.0731818
+2023-02-24 19:17:52,625 - __main__ - INFO - val_mae decreased from 1000000.00 to 42.72
+2023-02-24 19:17:52,626 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 19:17:55,906 - __main__ - INFO - Horizon 01, MAE: 51.67, MAPE: 0.4159, RMSE: 74.03
+2023-02-24 19:17:55,907 - __main__ - INFO - Horizon 02, MAE: 42.46, MAPE: 0.3737, RMSE: 63.23
+2023-02-24 19:17:55,908 - __main__ - INFO - Horizon 03, MAE: 41.73, MAPE: 0.3864, RMSE: 60.82
+2023-02-24 19:17:55,909 - __main__ - INFO - Horizon 04, MAE: 37.59, MAPE: 0.4258, RMSE: 58.69
+2023-02-24 19:17:55,910 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 19:18:26,153 - __main__ - INFO - Epoch:1, train_mae:37.49, val_mae:36.010684967041016, lr=[0.001], time_elapsed:30.242892700000006
+2023-02-24 19:18:26,153 - __main__ - INFO - val_mae decreased from 42.72 to 36.01
+2023-02-24 19:18:26,153 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 19:18:29,468 - __main__ - INFO - Horizon 01, MAE: 36.48, MAPE: 0.2795, RMSE: 57.89
+2023-02-24 19:18:29,470 - __main__ - INFO - Horizon 02, MAE: 36.93, MAPE: 0.3462, RMSE: 56.69
+2023-02-24 19:18:29,471 - __main__ - INFO - Horizon 03, MAE: 33.62, MAPE: 0.3942, RMSE: 53.43
+2023-02-24 19:18:29,472 - __main__ - INFO - Horizon 04, MAE: 32.06, MAPE: 0.3951, RMSE: 52.54
+2023-02-24 19:18:29,472 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 19:19:00,095 - __main__ - INFO - Epoch:2, train_mae:32.42, val_mae:44.87007522583008, lr=[0.001], time_elapsed:30.622313199999994
+2023-02-24 19:19:00,095 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 19:19:03,483 - __main__ - INFO - Horizon 01, MAE: 45.48, MAPE: 0.3922, RMSE: 60.24
+2023-02-24 19:19:03,484 - __main__ - INFO - Horizon 02, MAE: 41.31, MAPE: 0.3720, RMSE: 56.55
+2023-02-24 19:19:03,485 - __main__ - INFO - Horizon 03, MAE: 40.33, MAPE: 0.4048, RMSE: 56.65
+2023-02-24 19:19:03,486 - __main__ - INFO - Horizon 04, MAE: 43.04, MAPE: 0.5765, RMSE: 57.98
+2023-02-24 19:19:03,486 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 19:19:34,954 - __main__ - INFO - Epoch:3, train_mae:32.46, val_mae:31.136104583740234, lr=[0.001], time_elapsed:31.4673059
+2023-02-24 19:19:34,954 - __main__ - INFO - val_mae decreased from 36.01 to 31.14
+2023-02-24 19:19:34,954 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 19:19:38,532 - __main__ - INFO - Horizon 01, MAE: 28.53, MAPE: 0.1794, RMSE: 52.52
+2023-02-24 19:19:38,533 - __main__ - INFO - Horizon 02, MAE: 30.41, MAPE: 0.2280, RMSE: 49.36
+2023-02-24 19:19:38,534 - __main__ - INFO - Horizon 03, MAE: 31.97, MAPE: 0.2832, RMSE: 49.82
+2023-02-24 19:19:38,535 - __main__ - INFO - Horizon 04, MAE: 31.14, MAPE: 0.3215, RMSE: 49.72
+2023-02-24 19:19:38,535 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 19:20:10,376 - __main__ - INFO - Epoch:4, train_mae:29.73, val_mae:29.610543727874756, lr=[0.001], time_elapsed:31.840001
+2023-02-24 19:20:10,376 - __main__ - INFO - val_mae decreased from 31.14 to 29.61
+2023-02-24 19:20:10,377 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 19:20:13,903 - __main__ - INFO - Horizon 01, MAE: 31.14, MAPE: 0.1968, RMSE: 49.89
+2023-02-24 19:20:13,904 - __main__ - INFO - Horizon 02, MAE: 30.06, MAPE: 0.1925, RMSE: 48.95
+2023-02-24 19:20:13,905 - __main__ - INFO - Horizon 03, MAE: 29.28, MAPE: 0.2057, RMSE: 47.46
+2023-02-24 19:20:13,907 - __main__ - INFO - Horizon 04, MAE: 27.82, MAPE: 0.2198, RMSE: 46.27
+2023-02-24 19:20:13,907 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 19:20:46,176 - __main__ - INFO - Epoch:5, train_mae:28.58, val_mae:28.610293865203857, lr=[0.001], time_elapsed:32.26946079999999
+2023-02-24 19:20:46,176 - __main__ - INFO - val_mae decreased from 29.61 to 28.61
+2023-02-24 19:20:46,177 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 19:20:49,684 - __main__ - INFO - Horizon 01, MAE: 27.87, MAPE: 0.1683, RMSE: 45.65
+2023-02-24 19:20:49,686 - __main__ - INFO - Horizon 02, MAE: 28.13, MAPE: 0.1979, RMSE: 45.70
+2023-02-24 19:20:49,687 - __main__ - INFO - Horizon 03, MAE: 27.96, MAPE: 0.1865, RMSE: 46.87
+2023-02-24 19:20:49,689 - __main__ - INFO - Horizon 04, MAE: 29.05, MAPE: 0.2827, RMSE: 46.42
+2023-02-24 19:20:49,689 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 19:21:23,081 - __main__ - INFO - Epoch:6, train_mae:29.55, val_mae:28.634191513061523, lr=[0.001], time_elapsed:33.39216440000001
+2023-02-24 19:21:23,082 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 19:21:26,587 - __main__ - INFO - Horizon 01, MAE: 29.30, MAPE: 0.1903, RMSE: 46.78
+2023-02-24 19:21:26,588 - __main__ - INFO - Horizon 02, MAE: 28.20, MAPE: 0.1883, RMSE: 46.95
+2023-02-24 19:21:26,589 - __main__ - INFO - Horizon 03, MAE: 28.58, MAPE: 0.2109, RMSE: 46.26
+2023-02-24 19:21:26,590 - __main__ - INFO - Horizon 04, MAE: 28.00, MAPE: 0.2548, RMSE: 46.24
+2023-02-24 19:21:26,591 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 19:22:00,905 - __main__ - INFO - Epoch:7, train_mae:27.15, val_mae:26.80663824081421, lr=[0.001], time_elapsed:34.313986
+2023-02-24 19:22:00,905 - __main__ - INFO - val_mae decreased from 28.61 to 26.81
+2023-02-24 19:22:00,906 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 19:22:04,564 - __main__ - INFO - Horizon 01, MAE: 26.33, MAPE: 0.1523, RMSE: 43.89
+2023-02-24 19:22:04,566 - __main__ - INFO - Horizon 02, MAE: 26.80, MAPE: 0.1692, RMSE: 45.24
+2023-02-24 19:22:04,567 - __main__ - INFO - Horizon 03, MAE: 25.85, MAPE: 0.1755, RMSE: 42.81
+2023-02-24 19:22:04,568 - __main__ - INFO - Horizon 04, MAE: 27.49, MAPE: 0.2136, RMSE: 44.53
+2023-02-24 19:22:04,569 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 19:22:38,252 - __main__ - INFO - Epoch:8, train_mae:28.20, val_mae:26.17392921447754, lr=[0.001], time_elapsed:33.68426010000002
+2023-02-24 19:22:38,253 - __main__ - INFO - val_mae decreased from 26.81 to 26.17
+2023-02-24 19:22:38,253 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 19:22:41,898 - __main__ - INFO - Horizon 01, MAE: 28.09, MAPE: 0.1800, RMSE: 45.40
+2023-02-24 19:22:41,899 - __main__ - INFO - Horizon 02, MAE: 26.88, MAPE: 0.1808, RMSE: 43.42
+2023-02-24 19:22:41,902 - __main__ - INFO - Horizon 03, MAE: 24.48, MAPE: 0.1631, RMSE: 40.84
+2023-02-24 19:22:41,903 - __main__ - INFO - Horizon 04, MAE: 24.79, MAPE: 0.1856, RMSE: 41.85
+2023-02-24 19:22:41,903 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 19:23:16,051 - __main__ - INFO - Epoch:9, train_mae:28.96, val_mae:34.813222885131836, lr=[0.001], time_elapsed:34.14792019999999
+2023-02-24 19:23:16,051 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 19:23:19,574 - __main__ - INFO - Horizon 01, MAE: 37.57, MAPE: 0.2387, RMSE: 56.68
+2023-02-24 19:23:19,576 - __main__ - INFO - Horizon 02, MAE: 37.67, MAPE: 0.2739, RMSE: 54.13
+2023-02-24 19:23:19,577 - __main__ - INFO - Horizon 03, MAE: 33.26, MAPE: 0.2614, RMSE: 49.63
+2023-02-24 19:23:19,579 - __main__ - INFO - Horizon 04, MAE: 36.00, MAPE: 0.3458, RMSE: 53.24
+2023-02-24 19:23:19,579 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 19:23:53,764 - __main__ - INFO - Epoch:10, train_mae:27.25, val_mae:30.791042804718018, lr=[0.001], time_elapsed:34.18488490000004
+2023-02-24 19:23:53,764 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 19:23:57,331 - __main__ - INFO - Horizon 01, MAE: 30.79, MAPE: 0.2311, RMSE: 46.28
+2023-02-24 19:23:57,332 - __main__ - INFO - Horizon 02, MAE: 31.83, MAPE: 0.2666, RMSE: 47.75
+2023-02-24 19:23:57,334 - __main__ - INFO - Horizon 03, MAE: 31.33, MAPE: 0.2975, RMSE: 46.27
+2023-02-24 19:23:57,336 - __main__ - INFO - Horizon 04, MAE: 30.79, MAPE: 0.3777, RMSE: 45.60
+2023-02-24 19:23:57,336 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 19:24:31,513 - __main__ - INFO - Epoch:11, train_mae:27.05, val_mae:27.83365297317505, lr=[0.001], time_elapsed:34.17698130000002
+2023-02-24 19:24:31,513 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 19:24:35,373 - __main__ - INFO - Horizon 01, MAE: 27.75, MAPE: 0.1879, RMSE: 42.48
+2023-02-24 19:24:35,375 - __main__ - INFO - Horizon 02, MAE: 27.22, MAPE: 0.1756, RMSE: 43.09
+2023-02-24 19:24:35,376 - __main__ - INFO - Horizon 03, MAE: 26.79, MAPE: 0.1945, RMSE: 41.80
+2023-02-24 19:24:35,377 - __main__ - INFO - Horizon 04, MAE: 27.99, MAPE: 0.2771, RMSE: 42.51
+2023-02-24 19:24:35,377 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 19:25:09,711 - __main__ - INFO - Epoch:12, train_mae:28.17, val_mae:31.816682815551758, lr=[0.001], time_elapsed:34.3341418
+2023-02-24 19:25:09,711 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 19:25:13,311 - __main__ - INFO - Horizon 01, MAE: 30.28, MAPE: 0.2336, RMSE: 44.67
+2023-02-24 19:25:13,312 - __main__ - INFO - Horizon 02, MAE: 34.94, MAPE: 0.3074, RMSE: 50.10
+2023-02-24 19:25:13,313 - __main__ - INFO - Horizon 03, MAE: 32.14, MAPE: 0.3128, RMSE: 47.40
+2023-02-24 19:25:13,314 - __main__ - INFO - Horizon 04, MAE: 29.81, MAPE: 0.3557, RMSE: 45.49
+2023-02-24 19:25:13,315 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 19:25:47,525 - __main__ - INFO - Epoch:13, train_mae:27.06, val_mae:27.678935050964355, lr=[0.001], time_elapsed:34.21000030000005
+2023-02-24 19:25:47,525 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 19:25:51,282 - __main__ - INFO - Horizon 01, MAE: 26.80, MAPE: 0.1817, RMSE: 43.70
+2023-02-24 19:25:51,284 - __main__ - INFO - Horizon 02, MAE: 27.26, MAPE: 0.1921, RMSE: 47.61
+2023-02-24 19:25:51,285 - __main__ - INFO - Horizon 03, MAE: 27.81, MAPE: 0.2452, RMSE: 43.66
+2023-02-24 19:25:51,287 - __main__ - INFO - Horizon 04, MAE: 28.15, MAPE: 0.2982, RMSE: 44.10
+2023-02-24 19:25:51,287 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 19:26:26,149 - __main__ - INFO - Epoch:14, train_mae:26.65, val_mae:25.375322341918945, lr=[0.001], time_elapsed:34.861852
+2023-02-24 19:26:26,150 - __main__ - INFO - val_mae decreased from 26.17 to 25.38
+2023-02-24 19:26:26,150 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 19:26:29,982 - __main__ - INFO - Horizon 01, MAE: 25.57, MAPE: 0.1707, RMSE: 41.68
+2023-02-24 19:26:29,984 - __main__ - INFO - Horizon 02, MAE: 25.16, MAPE: 0.1600, RMSE: 41.65
+2023-02-24 19:26:29,985 - __main__ - INFO - Horizon 03, MAE: 24.97, MAPE: 0.1827, RMSE: 40.41
+2023-02-24 19:26:29,986 - __main__ - INFO - Horizon 04, MAE: 25.41, MAPE: 0.1729, RMSE: 41.15
+2023-02-24 19:26:29,986 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 19:27:05,341 - __main__ - INFO - Epoch:15, train_mae:25.33, val_mae:30.75696563720703, lr=[0.001], time_elapsed:35.35488639999994
+2023-02-24 19:27:05,341 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 19:27:09,073 - __main__ - INFO - Horizon 01, MAE: 29.78, MAPE: 0.2391, RMSE: 43.72
+2023-02-24 19:27:09,074 - __main__ - INFO - Horizon 02, MAE: 29.92, MAPE: 0.2549, RMSE: 44.83
+2023-02-24 19:27:09,075 - __main__ - INFO - Horizon 03, MAE: 30.34, MAPE: 0.3208, RMSE: 43.72
+2023-02-24 19:27:09,076 - __main__ - INFO - Horizon 04, MAE: 30.87, MAPE: 0.4141, RMSE: 44.36
+2023-02-24 19:27:09,077 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 19:27:44,013 - __main__ - INFO - Epoch:16, train_mae:26.27, val_mae:26.24705219268799, lr=[0.001], time_elapsed:34.93621529999996
+2023-02-24 19:27:44,014 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 19:27:47,619 - __main__ - INFO - Horizon 01, MAE: 25.16, MAPE: 0.1598, RMSE: 40.39
+2023-02-24 19:27:47,621 - __main__ - INFO - Horizon 02, MAE: 25.25, MAPE: 0.1620, RMSE: 43.04
+2023-02-24 19:27:47,622 - __main__ - INFO - Horizon 03, MAE: 24.97, MAPE: 0.1804, RMSE: 40.37
+2023-02-24 19:27:47,623 - __main__ - INFO - Horizon 04, MAE: 26.14, MAPE: 0.2364, RMSE: 41.98
+2023-02-24 19:27:47,623 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 19:28:22,446 - __main__ - INFO - Epoch:17, train_mae:26.08, val_mae:27.19702434539795, lr=[0.001], time_elapsed:34.82211289999998
+2023-02-24 19:28:22,446 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 19:28:26,330 - __main__ - INFO - Horizon 01, MAE: 27.11, MAPE: 0.1862, RMSE: 43.28
+2023-02-24 19:28:26,331 - __main__ - INFO - Horizon 02, MAE: 26.64, MAPE: 0.1729, RMSE: 44.92
+2023-02-24 19:28:26,332 - __main__ - INFO - Horizon 03, MAE: 25.95, MAPE: 0.1844, RMSE: 41.71
+2023-02-24 19:28:26,334 - __main__ - INFO - Horizon 04, MAE: 26.85, MAPE: 0.2212, RMSE: 43.14
+2023-02-24 19:28:26,334 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 19:29:01,540 - __main__ - INFO - Epoch:18, train_mae:25.67, val_mae:25.713963508605957, lr=[0.001], time_elapsed:35.206013100000064
+2023-02-24 19:29:01,540 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 19:29:05,331 - __main__ - INFO - Horizon 01, MAE: 24.92, MAPE: 0.1465, RMSE: 41.92
+2023-02-24 19:29:05,332 - __main__ - INFO - Horizon 02, MAE: 25.96, MAPE: 0.1499, RMSE: 46.13
+2023-02-24 19:29:05,334 - __main__ - INFO - Horizon 03, MAE: 24.09, MAPE: 0.1500, RMSE: 39.25
+2023-02-24 19:29:05,335 - __main__ - INFO - Horizon 04, MAE: 24.65, MAPE: 0.1620, RMSE: 40.79
+2023-02-24 19:29:05,335 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 19:29:40,130 - __main__ - INFO - Epoch:19, train_mae:25.97, val_mae:27.70767879486084, lr=[0.001], time_elapsed:34.794803
+2023-02-24 19:29:40,131 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 19:29:43,875 - __main__ - INFO - Horizon 01, MAE: 40.72, MAPE: 0.2179, RMSE: 73.22
+2023-02-24 19:29:43,876 - __main__ - INFO - Horizon 02, MAE: 29.37, MAPE: 0.1909, RMSE: 49.36
+2023-02-24 19:29:43,878 - __main__ - INFO - Horizon 03, MAE: 28.65, MAPE: 0.2341, RMSE: 46.66
+2023-02-24 19:29:43,879 - __main__ - INFO - Horizon 04, MAE: 26.86, MAPE: 0.2757, RMSE: 44.25
+2023-02-24 19:29:43,880 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 19:30:18,800 - __main__ - INFO - Epoch:20, train_mae:26.50, val_mae:32.832200050354004, lr=[0.001], time_elapsed:34.91953150000006
+2023-02-24 19:30:18,800 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 19:30:22,467 - __main__ - INFO - Horizon 01, MAE: 33.12, MAPE: 0.2574, RMSE: 47.02
+2023-02-24 19:30:22,468 - __main__ - INFO - Horizon 02, MAE: 31.68, MAPE: 0.2436, RMSE: 47.38
+2023-02-24 19:30:22,469 - __main__ - INFO - Horizon 03, MAE: 34.32, MAPE: 0.3464, RMSE: 48.85
+2023-02-24 19:30:22,470 - __main__ - INFO - Horizon 04, MAE: 33.84, MAPE: 0.4025, RMSE: 48.32
+2023-02-24 19:30:22,470 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 19:30:58,345 - __main__ - INFO - Epoch:21, train_mae:25.23, val_mae:25.46231508255005, lr=[0.001], time_elapsed:35.8738522000001
+2023-02-24 19:30:58,345 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 19:31:02,072 - __main__ - INFO - Horizon 01, MAE: 24.68, MAPE: 0.1541, RMSE: 39.44
+2023-02-24 19:31:02,074 - __main__ - INFO - Horizon 02, MAE: 24.81, MAPE: 0.1750, RMSE: 40.69
+2023-02-24 19:31:02,075 - __main__ - INFO - Horizon 03, MAE: 24.30, MAPE: 0.2124, RMSE: 38.21
+2023-02-24 19:31:02,076 - __main__ - INFO - Horizon 04, MAE: 24.90, MAPE: 0.2587, RMSE: 41.06
+2023-02-24 19:31:02,076 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 19:31:37,383 - __main__ - INFO - Epoch:22, train_mae:25.75, val_mae:27.379778385162354, lr=[0.001], time_elapsed:35.306378300000006
+2023-02-24 19:31:37,383 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 19:31:41,055 - __main__ - INFO - Horizon 01, MAE: 27.00, MAPE: 0.1672, RMSE: 43.43
+2023-02-24 19:31:41,056 - __main__ - INFO - Horizon 02, MAE: 25.96, MAPE: 0.1738, RMSE: 41.07
+2023-02-24 19:31:41,058 - __main__ - INFO - Horizon 03, MAE: 27.02, MAPE: 0.2111, RMSE: 42.11
+2023-02-24 19:31:41,059 - __main__ - INFO - Horizon 04, MAE: 25.93, MAPE: 0.2388, RMSE: 41.21
+2023-02-24 19:31:41,059 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 19:32:16,400 - __main__ - INFO - Epoch:23, train_mae:25.17, val_mae:27.161422729492188, lr=[0.001], time_elapsed:35.34083579999992
+2023-02-24 19:32:16,401 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 19:32:20,040 - __main__ - INFO - Horizon 01, MAE: 25.96, MAPE: 0.1833, RMSE: 39.68
+2023-02-24 19:32:20,042 - __main__ - INFO - Horizon 02, MAE: 26.20, MAPE: 0.2057, RMSE: 40.70
+2023-02-24 19:32:20,043 - __main__ - INFO - Horizon 03, MAE: 25.96, MAPE: 0.2419, RMSE: 39.59
+2023-02-24 19:32:20,044 - __main__ - INFO - Horizon 04, MAE: 26.91, MAPE: 0.3251, RMSE: 42.04
+2023-02-24 19:32:20,044 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 19:32:55,783 - __main__ - INFO - Epoch:24, train_mae:25.55, val_mae:24.368950366973877, lr=[0.001], time_elapsed:35.73858359999997
+2023-02-24 19:32:55,783 - __main__ - INFO - val_mae decreased from 25.38 to 24.37
+2023-02-24 19:32:55,784 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 19:32:59,540 - __main__ - INFO - Horizon 01, MAE: 25.47, MAPE: 0.1623, RMSE: 40.78
+2023-02-24 19:32:59,541 - __main__ - INFO - Horizon 02, MAE: 24.51, MAPE: 0.1722, RMSE: 39.85
+2023-02-24 19:32:59,542 - __main__ - INFO - Horizon 03, MAE: 24.79, MAPE: 0.2108, RMSE: 39.85
+2023-02-24 19:32:59,543 - __main__ - INFO - Horizon 04, MAE: 24.59, MAPE: 0.2644, RMSE: 39.37
+2023-02-24 19:32:59,543 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 19:33:34,845 - __main__ - INFO - Epoch:25, train_mae:24.69, val_mae:25.539572715759277, lr=[0.001], time_elapsed:35.300836000000004
+2023-02-24 19:33:34,845 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 19:33:38,512 - __main__ - INFO - Horizon 01, MAE: 25.71, MAPE: 0.1654, RMSE: 40.39
+2023-02-24 19:33:38,513 - __main__ - INFO - Horizon 02, MAE: 25.27, MAPE: 0.1657, RMSE: 39.92
+2023-02-24 19:33:38,514 - __main__ - INFO - Horizon 03, MAE: 24.41, MAPE: 0.1780, RMSE: 38.77
+2023-02-24 19:33:38,515 - __main__ - INFO - Horizon 04, MAE: 26.63, MAPE: 0.2685, RMSE: 40.65
+2023-02-24 19:33:38,515 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 19:34:14,103 - __main__ - INFO - Epoch:26, train_mae:26.21, val_mae:28.7112398147583, lr=[0.001], time_elapsed:35.587536
+2023-02-24 19:34:14,104 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 19:34:17,876 - __main__ - INFO - Horizon 01, MAE: 28.99, MAPE: 0.2240, RMSE: 47.02
+2023-02-24 19:34:17,877 - __main__ - INFO - Horizon 02, MAE: 29.87, MAPE: 0.1596, RMSE: 53.24
+2023-02-24 19:34:17,878 - __main__ - INFO - Horizon 03, MAE: 27.88, MAPE: 0.1621, RMSE: 47.33
+2023-02-24 19:34:17,879 - __main__ - INFO - Horizon 04, MAE: 27.51, MAPE: 0.1958, RMSE: 45.94
+2023-02-24 19:34:17,879 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 19:34:53,233 - __main__ - INFO - Epoch:27, train_mae:25.55, val_mae:25.635450839996338, lr=[0.001], time_elapsed:35.35438510000006
+2023-02-24 19:34:53,233 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 19:34:56,855 - __main__ - INFO - Horizon 01, MAE: 24.87, MAPE: 0.1650, RMSE: 38.67
+2023-02-24 19:34:56,857 - __main__ - INFO - Horizon 02, MAE: 25.92, MAPE: 0.1997, RMSE: 40.66
+2023-02-24 19:34:56,858 - __main__ - INFO - Horizon 03, MAE: 25.29, MAPE: 0.2173, RMSE: 38.92
+2023-02-24 19:34:56,860 - __main__ - INFO - Horizon 04, MAE: 25.68, MAPE: 0.2806, RMSE: 39.69
+2023-02-24 19:34:56,860 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 19:35:32,148 - __main__ - INFO - Epoch:28, train_mae:24.48, val_mae:25.830565452575684, lr=[0.001], time_elapsed:35.28765139999996
+2023-02-24 19:35:32,148 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 19:35:35,721 - __main__ - INFO - Horizon 01, MAE: 25.93, MAPE: 0.1856, RMSE: 39.49
+2023-02-24 19:35:35,722 - __main__ - INFO - Horizon 02, MAE: 26.07, MAPE: 0.1895, RMSE: 40.36
+2023-02-24 19:35:35,723 - __main__ - INFO - Horizon 03, MAE: 26.13, MAPE: 0.2261, RMSE: 39.89
+2023-02-24 19:35:35,724 - __main__ - INFO - Horizon 04, MAE: 26.95, MAPE: 0.2935, RMSE: 40.74
+2023-02-24 19:35:35,724 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 19:36:11,618 - __main__ - INFO - Epoch:29, train_mae:24.66, val_mae:25.48489809036255, lr=[0.001], time_elapsed:35.89324939999983
+2023-02-24 19:36:11,618 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 19:36:15,451 - __main__ - INFO - Horizon 01, MAE: 24.87, MAPE: 0.1455, RMSE: 39.96
+2023-02-24 19:36:15,452 - __main__ - INFO - Horizon 02, MAE: 25.70, MAPE: 0.1612, RMSE: 40.30
+2023-02-24 19:36:15,453 - __main__ - INFO - Horizon 03, MAE: 25.13, MAPE: 0.1594, RMSE: 40.11
+2023-02-24 19:36:15,454 - __main__ - INFO - Horizon 04, MAE: 26.85, MAPE: 0.2054, RMSE: 42.96
+2023-02-24 19:36:15,455 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 19:36:50,611 - __main__ - INFO - Epoch:30, train_mae:23.51, val_mae:26.265167236328125, lr=[0.001], time_elapsed:35.15665980000017
+2023-02-24 19:36:50,611 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 19:36:54,445 - __main__ - INFO - Horizon 01, MAE: 25.79, MAPE: 0.1723, RMSE: 39.75
+2023-02-24 19:36:54,446 - __main__ - INFO - Horizon 02, MAE: 26.46, MAPE: 0.2052, RMSE: 41.37
+2023-02-24 19:36:54,447 - __main__ - INFO - Horizon 03, MAE: 26.35, MAPE: 0.2355, RMSE: 40.28
+2023-02-24 19:36:54,448 - __main__ - INFO - Horizon 04, MAE: 26.28, MAPE: 0.2986, RMSE: 40.10
+2023-02-24 19:36:54,448 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 19:37:30,412 - __main__ - INFO - Epoch:31, train_mae:24.83, val_mae:25.43428325653076, lr=[0.001], time_elapsed:35.96348069999999
+2023-02-24 19:37:30,413 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 19:37:34,095 - __main__ - INFO - Horizon 01, MAE: 25.94, MAPE: 0.1749, RMSE: 41.07
+2023-02-24 19:37:34,097 - __main__ - INFO - Horizon 02, MAE: 25.40, MAPE: 0.1909, RMSE: 40.78
+2023-02-24 19:37:34,098 - __main__ - INFO - Horizon 03, MAE: 25.89, MAPE: 0.2001, RMSE: 41.62
+2023-02-24 19:37:34,099 - __main__ - INFO - Horizon 04, MAE: 26.78, MAPE: 0.3415, RMSE: 41.95
+2023-02-24 19:37:34,099 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 19:38:09,313 - __main__ - INFO - Epoch:32, train_mae:24.33, val_mae:23.95244789123535, lr=[0.001], time_elapsed:35.2138594999999
+2023-02-24 19:38:09,313 - __main__ - INFO - val_mae decreased from 24.37 to 23.95
+2023-02-24 19:38:09,314 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 19:38:13,074 - __main__ - INFO - Horizon 01, MAE: 24.48, MAPE: 0.1484, RMSE: 38.59
+2023-02-24 19:38:13,075 - __main__ - INFO - Horizon 02, MAE: 23.79, MAPE: 0.1499, RMSE: 38.22
+2023-02-24 19:38:13,076 - __main__ - INFO - Horizon 03, MAE: 23.65, MAPE: 0.1490, RMSE: 38.13
+2023-02-24 19:38:13,078 - __main__ - INFO - Horizon 04, MAE: 23.76, MAPE: 0.1500, RMSE: 38.58
+2023-02-24 19:38:13,078 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 19:38:49,271 - __main__ - INFO - Epoch:33, train_mae:23.47, val_mae:24.167133331298828, lr=[0.001], time_elapsed:36.19161929999996
+2023-02-24 19:38:49,271 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 19:38:52,974 - __main__ - INFO - Horizon 01, MAE: 25.54, MAPE: 0.1525, RMSE: 41.83
+2023-02-24 19:38:52,975 - __main__ - INFO - Horizon 02, MAE: 24.03, MAPE: 0.1539, RMSE: 39.52
+2023-02-24 19:38:52,976 - __main__ - INFO - Horizon 03, MAE: 24.49, MAPE: 0.2062, RMSE: 38.92
+2023-02-24 19:38:52,977 - __main__ - INFO - Horizon 04, MAE: 23.63, MAPE: 0.2151, RMSE: 38.15
+2023-02-24 19:38:52,977 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 19:39:28,719 - __main__ - INFO - Epoch:34, train_mae:23.77, val_mae:25.609276294708252, lr=[0.001], time_elapsed:35.74108780000006
+2023-02-24 19:39:28,719 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 19:39:32,391 - __main__ - INFO - Horizon 01, MAE: 25.85, MAPE: 0.1664, RMSE: 44.18
+2023-02-24 19:39:32,392 - __main__ - INFO - Horizon 02, MAE: 25.96, MAPE: 0.1932, RMSE: 42.35
+2023-02-24 19:39:32,393 - __main__ - INFO - Horizon 03, MAE: 26.78, MAPE: 0.2668, RMSE: 42.30
+2023-02-24 19:39:32,394 - __main__ - INFO - Horizon 04, MAE: 25.98, MAPE: 0.3116, RMSE: 41.79
+2023-02-24 19:39:32,395 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 19:40:08,003 - __main__ - INFO - Epoch:35, train_mae:23.75, val_mae:25.050935745239258, lr=[0.001], time_elapsed:35.608579899999995
+2023-02-24 19:40:08,004 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 19:40:11,740 - __main__ - INFO - Horizon 01, MAE: 25.22, MAPE: 0.1627, RMSE: 39.57
+2023-02-24 19:40:11,741 - __main__ - INFO - Horizon 02, MAE: 25.54, MAPE: 0.1700, RMSE: 40.16
+2023-02-24 19:40:11,742 - __main__ - INFO - Horizon 03, MAE: 25.60, MAPE: 0.2115, RMSE: 39.54
+2023-02-24 19:40:11,743 - __main__ - INFO - Horizon 04, MAE: 25.51, MAPE: 0.2124, RMSE: 41.18
+2023-02-24 19:40:11,743 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 19:40:47,560 - __main__ - INFO - Epoch:36, train_mae:23.81, val_mae:25.624374866485596, lr=[0.001], time_elapsed:35.815575999999965
+2023-02-24 19:40:47,560 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 19:40:51,388 - __main__ - INFO - Horizon 01, MAE: 25.11, MAPE: 0.1650, RMSE: 38.88
+2023-02-24 19:40:51,389 - __main__ - INFO - Horizon 02, MAE: 25.33, MAPE: 0.1771, RMSE: 39.28
+2023-02-24 19:40:51,390 - __main__ - INFO - Horizon 03, MAE: 25.55, MAPE: 0.1962, RMSE: 39.43
+2023-02-24 19:40:51,391 - __main__ - INFO - Horizon 04, MAE: 25.64, MAPE: 0.2714, RMSE: 39.28
+2023-02-24 19:40:51,392 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 19:41:26,990 - __main__ - INFO - Epoch:37, train_mae:23.56, val_mae:25.140626430511475, lr=[0.001], time_elapsed:35.59737629999995
+2023-02-24 19:41:26,990 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 19:41:30,700 - __main__ - INFO - Horizon 01, MAE: 25.49, MAPE: 0.1534, RMSE: 40.88
+2023-02-24 19:41:30,701 - __main__ - INFO - Horizon 02, MAE: 24.84, MAPE: 0.1557, RMSE: 41.00
+2023-02-24 19:41:30,702 - __main__ - INFO - Horizon 03, MAE: 24.92, MAPE: 0.1772, RMSE: 40.60
+2023-02-24 19:41:30,703 - __main__ - INFO - Horizon 04, MAE: 24.53, MAPE: 0.1891, RMSE: 41.32
+2023-02-24 19:41:30,704 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 19:42:06,814 - __main__ - INFO - Epoch:38, train_mae:23.75, val_mae:24.348493099212646, lr=[0.001], time_elapsed:36.11022509999998
+2023-02-24 19:42:06,814 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 19:42:10,435 - __main__ - INFO - Horizon 01, MAE: 24.48, MAPE: 0.1551, RMSE: 38.84
+2023-02-24 19:42:10,436 - __main__ - INFO - Horizon 02, MAE: 24.47, MAPE: 0.1667, RMSE: 38.91
+2023-02-24 19:42:10,438 - __main__ - INFO - Horizon 03, MAE: 24.35, MAPE: 0.1791, RMSE: 38.47
+2023-02-24 19:42:10,439 - __main__ - INFO - Horizon 04, MAE: 23.99, MAPE: 0.2024, RMSE: 38.16
+2023-02-24 19:42:10,439 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 19:42:45,658 - __main__ - INFO - Epoch:39, train_mae:23.82, val_mae:31.79535436630249, lr=[0.001], time_elapsed:35.2189879
+2023-02-24 19:42:45,658 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 19:42:49,473 - __main__ - INFO - Horizon 01, MAE: 27.63, MAPE: 0.1707, RMSE: 45.24
+2023-02-24 19:42:49,474 - __main__ - INFO - Horizon 02, MAE: 28.24, MAPE: 0.1770, RMSE: 50.23
+2023-02-24 19:42:49,475 - __main__ - INFO - Horizon 03, MAE: 29.13, MAPE: 0.2059, RMSE: 50.35
+2023-02-24 19:42:49,477 - __main__ - INFO - Horizon 04, MAE: 29.67, MAPE: 0.2092, RMSE: 65.64
+2023-02-24 19:42:49,477 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 19:43:25,910 - __main__ - INFO - Epoch:40, train_mae:23.46, val_mae:23.534754276275635, lr=[0.001], time_elapsed:36.43320319999998
+2023-02-24 19:43:25,911 - __main__ - INFO - val_mae decreased from 23.95 to 23.53
+2023-02-24 19:43:25,911 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 19:43:29,550 - __main__ - INFO - Horizon 01, MAE: 25.35, MAPE: 0.1502, RMSE: 42.37
+2023-02-24 19:43:29,552 - __main__ - INFO - Horizon 02, MAE: 23.77, MAPE: 0.1497, RMSE: 38.82
+2023-02-24 19:43:29,553 - __main__ - INFO - Horizon 03, MAE: 24.03, MAPE: 0.1776, RMSE: 38.67
+2023-02-24 19:43:29,554 - __main__ - INFO - Horizon 04, MAE: 24.35, MAPE: 0.2154, RMSE: 39.11
+2023-02-24 19:43:29,554 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 19:44:05,312 - __main__ - INFO - Epoch:41, train_mae:24.41, val_mae:25.21191930770874, lr=[0.001], time_elapsed:35.757151899999826
+2023-02-24 19:44:05,312 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 19:44:08,940 - __main__ - INFO - Horizon 01, MAE: 24.38, MAPE: 0.1560, RMSE: 38.25
+2023-02-24 19:44:08,942 - __main__ - INFO - Horizon 02, MAE: 25.37, MAPE: 0.1848, RMSE: 39.66
+2023-02-24 19:44:08,943 - __main__ - INFO - Horizon 03, MAE: 25.30, MAPE: 0.2231, RMSE: 38.54
+2023-02-24 19:44:08,944 - __main__ - INFO - Horizon 04, MAE: 25.59, MAPE: 0.2720, RMSE: 39.56
+2023-02-24 19:44:08,944 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 19:44:44,292 - __main__ - INFO - Epoch:42, train_mae:23.72, val_mae:25.124735355377197, lr=[0.001], time_elapsed:35.34638799999993
+2023-02-24 19:44:44,292 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 19:44:47,926 - __main__ - INFO - Horizon 01, MAE: 25.22, MAPE: 0.1749, RMSE: 38.93
+2023-02-24 19:44:47,927 - __main__ - INFO - Horizon 02, MAE: 25.32, MAPE: 0.1769, RMSE: 39.35
+2023-02-24 19:44:47,928 - __main__ - INFO - Horizon 03, MAE: 25.00, MAPE: 0.1955, RMSE: 38.51
+2023-02-24 19:44:47,929 - __main__ - INFO - Horizon 04, MAE: 25.59, MAPE: 0.2475, RMSE: 38.91
+2023-02-24 19:44:47,929 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 19:45:23,961 - __main__ - INFO - Epoch:43, train_mae:23.58, val_mae:24.138548851013184, lr=[0.001], time_elapsed:36.03209259999994
+2023-02-24 19:45:23,962 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 19:45:27,823 - __main__ - INFO - Horizon 01, MAE: 25.23, MAPE: 0.1645, RMSE: 39.43
+2023-02-24 19:45:27,824 - __main__ - INFO - Horizon 02, MAE: 24.27, MAPE: 0.1579, RMSE: 39.24
+2023-02-24 19:45:27,825 - __main__ - INFO - Horizon 03, MAE: 23.81, MAPE: 0.1779, RMSE: 37.54
+2023-02-24 19:45:27,827 - __main__ - INFO - Horizon 04, MAE: 24.60, MAPE: 0.1935, RMSE: 40.47
+2023-02-24 19:45:27,827 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 19:46:03,247 - __main__ - INFO - Epoch:44, train_mae:23.91, val_mae:23.909998416900635, lr=[0.001], time_elapsed:35.41954979999991
+2023-02-24 19:46:03,247 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 19:46:06,891 - __main__ - INFO - Horizon 01, MAE: 24.74, MAPE: 0.1541, RMSE: 39.83
+2023-02-24 19:46:06,893 - __main__ - INFO - Horizon 02, MAE: 24.27, MAPE: 0.1551, RMSE: 40.21
+2023-02-24 19:46:06,894 - __main__ - INFO - Horizon 03, MAE: 23.65, MAPE: 0.1628, RMSE: 37.91
+2023-02-24 19:46:06,895 - __main__ - INFO - Horizon 04, MAE: 23.77, MAPE: 0.2044, RMSE: 37.79
+2023-02-24 19:46:06,895 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 19:46:42,996 - __main__ - INFO - Epoch:45, train_mae:23.13, val_mae:23.629051208496094, lr=[0.001], time_elapsed:36.10179489999996
+2023-02-24 19:46:42,997 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 19:46:46,772 - __main__ - INFO - Horizon 01, MAE: 23.93, MAPE: 0.1466, RMSE: 38.56
+2023-02-24 19:46:46,774 - __main__ - INFO - Horizon 02, MAE: 23.59, MAPE: 0.1473, RMSE: 38.57
+2023-02-24 19:46:46,775 - __main__ - INFO - Horizon 03, MAE: 23.38, MAPE: 0.1673, RMSE: 37.58
+2023-02-24 19:46:46,776 - __main__ - INFO - Horizon 04, MAE: 23.60, MAPE: 0.1974, RMSE: 37.87
+2023-02-24 19:46:46,776 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 19:47:23,016 - __main__ - INFO - Epoch:46, train_mae:22.84, val_mae:24.70089054107666, lr=[0.001], time_elapsed:36.239246399999956
+2023-02-24 19:47:23,017 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 19:47:27,023 - __main__ - INFO - Horizon 01, MAE: 24.63, MAPE: 0.1535, RMSE: 38.36
+2023-02-24 19:47:27,024 - __main__ - INFO - Horizon 02, MAE: 24.81, MAPE: 0.1570, RMSE: 39.35
+2023-02-24 19:47:27,025 - __main__ - INFO - Horizon 03, MAE: 24.54, MAPE: 0.1613, RMSE: 38.84
+2023-02-24 19:47:27,026 - __main__ - INFO - Horizon 04, MAE: 24.75, MAPE: 0.1879, RMSE: 38.73
+2023-02-24 19:47:27,026 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 19:48:02,618 - __main__ - INFO - Epoch:47, train_mae:22.81, val_mae:23.91191530227661, lr=[0.001], time_elapsed:35.59158720000005
+2023-02-24 19:48:02,618 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 19:48:06,253 - __main__ - INFO - Horizon 01, MAE: 24.62, MAPE: 0.1505, RMSE: 40.08
+2023-02-24 19:48:06,255 - __main__ - INFO - Horizon 02, MAE: 23.79, MAPE: 0.1445, RMSE: 38.93
+2023-02-24 19:48:06,256 - __main__ - INFO - Horizon 03, MAE: 26.44, MAPE: 0.1646, RMSE: 47.83
+2023-02-24 19:48:06,257 - __main__ - INFO - Horizon 04, MAE: 23.71, MAPE: 0.1577, RMSE: 38.82
+2023-02-24 19:48:06,257 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 19:48:42,141 - __main__ - INFO - Epoch:48, train_mae:22.96, val_mae:26.84860372543335, lr=[0.001], time_elapsed:35.88325920000011
+2023-02-24 19:48:42,141 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 19:48:45,778 - __main__ - INFO - Horizon 01, MAE: 25.83, MAPE: 0.1871, RMSE: 41.54
+2023-02-24 19:48:45,780 - __main__ - INFO - Horizon 02, MAE: 28.35, MAPE: 0.1759, RMSE: 44.04
+2023-02-24 19:48:45,781 - __main__ - INFO - Horizon 03, MAE: 27.39, MAPE: 0.1852, RMSE: 42.33
+2023-02-24 19:48:45,781 - __main__ - INFO - Horizon 04, MAE: 27.21, MAPE: 0.2110, RMSE: 44.19
+2023-02-24 19:48:45,782 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 19:49:21,423 - __main__ - INFO - Epoch:49, train_mae:23.31, val_mae:24.245972633361816, lr=[0.001], time_elapsed:35.64127550000012
+2023-02-24 19:49:21,423 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 19:49:25,178 - __main__ - INFO - Horizon 01, MAE: 24.22, MAPE: 0.1575, RMSE: 37.94
+2023-02-24 19:49:25,180 - __main__ - INFO - Horizon 02, MAE: 24.80, MAPE: 0.1847, RMSE: 38.15
+2023-02-24 19:49:25,181 - __main__ - INFO - Horizon 03, MAE: 24.26, MAPE: 0.1932, RMSE: 37.66
+2023-02-24 19:49:25,182 - __main__ - INFO - Horizon 04, MAE: 24.73, MAPE: 0.2335, RMSE: 38.38
+2023-02-24 19:49:25,182 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 19:50:00,901 - __main__ - INFO - Epoch:50, train_mae:22.67, val_mae:23.883083820343018, lr=[0.001], time_elapsed:35.57180230000017
+2023-02-24 19:50:00,901 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 19:50:04,627 - __main__ - INFO - Horizon 01, MAE: 24.19, MAPE: 0.1539, RMSE: 38.47
+2023-02-24 19:50:04,628 - __main__ - INFO - Horizon 02, MAE: 24.22, MAPE: 0.1576, RMSE: 39.26
+2023-02-24 19:50:04,629 - __main__ - INFO - Horizon 03, MAE: 23.92, MAPE: 0.1789, RMSE: 37.60
+2023-02-24 19:50:04,630 - __main__ - INFO - Horizon 04, MAE: 23.91, MAPE: 0.2051, RMSE: 37.84
+2023-02-24 19:50:04,630 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 19:50:40,135 - __main__ - INFO - Epoch:51, train_mae:23.33, val_mae:24.189133644104004, lr=[0.001], time_elapsed:35.5040242
+2023-02-24 19:50:40,135 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 19:50:43,777 - __main__ - INFO - Horizon 01, MAE: 23.25, MAPE: 0.1417, RMSE: 38.35
+2023-02-24 19:50:43,779 - __main__ - INFO - Horizon 02, MAE: 25.51, MAPE: 0.1630, RMSE: 42.14
+2023-02-24 19:50:43,780 - __main__ - INFO - Horizon 03, MAE: 24.00, MAPE: 0.1604, RMSE: 38.72
+2023-02-24 19:50:43,781 - __main__ - INFO - Horizon 04, MAE: 25.42, MAPE: 0.1988, RMSE: 41.30
+2023-02-24 19:50:43,781 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 19:51:19,641 - __main__ - INFO - Epoch:52, train_mae:23.03, val_mae:23.860650539398193, lr=[0.001], time_elapsed:35.85912189999999
+2023-02-24 19:51:19,641 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 19:51:23,254 - __main__ - INFO - Horizon 01, MAE: 23.42, MAPE: 0.1407, RMSE: 38.04
+2023-02-24 19:51:23,255 - __main__ - INFO - Horizon 02, MAE: 24.11, MAPE: 0.1540, RMSE: 39.05
+2023-02-24 19:51:23,256 - __main__ - INFO - Horizon 03, MAE: 23.65, MAPE: 0.1680, RMSE: 37.66
+2023-02-24 19:51:23,257 - __main__ - INFO - Horizon 04, MAE: 24.32, MAPE: 0.2083, RMSE: 38.62
+2023-02-24 19:51:23,258 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 19:51:59,057 - __main__ - INFO - Epoch:53, train_mae:22.34, val_mae:24.240135192871094, lr=[0.001], time_elapsed:35.79818350000005
+2023-02-24 19:51:59,057 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 19:52:02,950 - __main__ - INFO - Horizon 01, MAE: 23.83, MAPE: 0.1418, RMSE: 38.66
+2023-02-24 19:52:02,951 - __main__ - INFO - Horizon 02, MAE: 24.39, MAPE: 0.1483, RMSE: 39.90
+2023-02-24 19:52:02,952 - __main__ - INFO - Horizon 03, MAE: 24.20, MAPE: 0.1750, RMSE: 38.44
+2023-02-24 19:52:02,954 - __main__ - INFO - Horizon 04, MAE: 25.14, MAPE: 0.2244, RMSE: 39.57
+2023-02-24 19:52:02,954 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 19:52:39,117 - __main__ - INFO - Epoch:54, train_mae:22.97, val_mae:25.329493045806885, lr=[0.001], time_elapsed:36.16390700000011
+2023-02-24 19:52:39,118 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 19:52:42,714 - __main__ - INFO - Horizon 01, MAE: 25.78, MAPE: 0.1900, RMSE: 39.51
+2023-02-24 19:52:42,715 - __main__ - INFO - Horizon 02, MAE: 24.29, MAPE: 0.1781, RMSE: 38.89
+2023-02-24 19:52:42,717 - __main__ - INFO - Horizon 03, MAE: 24.55, MAPE: 0.2223, RMSE: 38.62
+2023-02-24 19:52:42,718 - __main__ - INFO - Horizon 04, MAE: 24.68, MAPE: 0.2657, RMSE: 38.93
+2023-02-24 19:52:42,718 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 19:53:18,445 - __main__ - INFO - Epoch:55, train_mae:22.80, val_mae:25.077617168426514, lr=[0.001], time_elapsed:35.726997299999766
+2023-02-24 19:53:18,445 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 19:53:22,174 - __main__ - INFO - Horizon 01, MAE: 26.68, MAPE: 0.1810, RMSE: 44.74
+2023-02-24 19:53:22,175 - __main__ - INFO - Horizon 02, MAE: 25.46, MAPE: 0.1832, RMSE: 39.91
+2023-02-24 19:53:22,176 - __main__ - INFO - Horizon 03, MAE: 25.28, MAPE: 0.1866, RMSE: 40.61
+2023-02-24 19:53:22,177 - __main__ - INFO - Horizon 04, MAE: 25.67, MAPE: 0.2518, RMSE: 41.63
+2023-02-24 19:53:22,177 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 19:53:58,054 - __main__ - INFO - Epoch:56, train_mae:23.14, val_mae:24.640511989593506, lr=[0.001], time_elapsed:35.87583300000006
+2023-02-24 19:53:58,054 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 19:54:01,701 - __main__ - INFO - Horizon 01, MAE: 23.74, MAPE: 0.1417, RMSE: 38.47
+2023-02-24 19:54:01,702 - __main__ - INFO - Horizon 02, MAE: 23.75, MAPE: 0.1539, RMSE: 38.11
+2023-02-24 19:54:01,704 - __main__ - INFO - Horizon 03, MAE: 24.88, MAPE: 0.1723, RMSE: 42.00
+2023-02-24 19:54:01,705 - __main__ - INFO - Horizon 04, MAE: 25.68, MAPE: 0.1886, RMSE: 46.40
+2023-02-24 19:54:01,705 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 19:54:37,616 - __main__ - INFO - Epoch:57, train_mae:22.57, val_mae:23.781046390533447, lr=[0.001], time_elapsed:35.91011580000031
+2023-02-24 19:54:37,616 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 19:54:41,234 - __main__ - INFO - Horizon 01, MAE: 24.02, MAPE: 0.1519, RMSE: 38.12
+2023-02-24 19:54:41,235 - __main__ - INFO - Horizon 02, MAE: 24.49, MAPE: 0.1711, RMSE: 39.43
+2023-02-24 19:54:41,236 - __main__ - INFO - Horizon 03, MAE: 23.90, MAPE: 0.1903, RMSE: 37.58
+2023-02-24 19:54:41,238 - __main__ - INFO - Horizon 04, MAE: 23.67, MAPE: 0.2073, RMSE: 37.67
+2023-02-24 19:54:41,238 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 19:55:17,399 - __main__ - INFO - Epoch:58, train_mae:22.69, val_mae:25.75159788131714, lr=[0.001], time_elapsed:36.16004329999987
+2023-02-24 19:55:17,399 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 19:55:21,113 - __main__ - INFO - Horizon 01, MAE: 27.62, MAPE: 0.2108, RMSE: 41.47
+2023-02-24 19:55:21,115 - __main__ - INFO - Horizon 02, MAE: 26.18, MAPE: 0.2003, RMSE: 41.13
+2023-02-24 19:55:21,116 - __main__ - INFO - Horizon 03, MAE: 26.63, MAPE: 0.2507, RMSE: 40.56
+2023-02-24 19:55:21,117 - __main__ - INFO - Horizon 04, MAE: 26.28, MAPE: 0.2893, RMSE: 41.04
+2023-02-24 19:55:21,117 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 19:55:56,316 - __main__ - INFO - Epoch:59, train_mae:22.47, val_mae:26.6509051322937, lr=[0.001], time_elapsed:35.1982723000001
+2023-02-24 19:55:56,316 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 19:56:00,011 - __main__ - INFO - Horizon 01, MAE: 26.03, MAPE: 0.1872, RMSE: 40.40
+2023-02-24 19:56:00,012 - __main__ - INFO - Horizon 02, MAE: 26.57, MAPE: 0.1904, RMSE: 43.59
+2023-02-24 19:56:00,013 - __main__ - INFO - Horizon 03, MAE: 26.23, MAPE: 0.2064, RMSE: 42.62
+2023-02-24 19:56:00,015 - __main__ - INFO - Horizon 04, MAE: 27.50, MAPE: 0.2707, RMSE: 44.11
+2023-02-24 19:56:00,015 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 19:56:36,286 - __main__ - INFO - Epoch:60, train_mae:23.00, val_mae:24.320200443267822, lr=[0.001], time_elapsed:36.27016569999978
+2023-02-24 19:56:36,286 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 19:56:40,450 - __main__ - INFO - Horizon 01, MAE: 25.09, MAPE: 0.1832, RMSE: 40.05
+2023-02-24 19:56:40,452 - __main__ - INFO - Horizon 02, MAE: 25.00, MAPE: 0.1823, RMSE: 39.00
+2023-02-24 19:56:40,453 - __main__ - INFO - Horizon 03, MAE: 24.38, MAPE: 0.1928, RMSE: 38.79
+2023-02-24 19:56:40,454 - __main__ - INFO - Horizon 04, MAE: 25.79, MAPE: 0.2257, RMSE: 41.10
+2023-02-24 19:56:40,454 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 19:57:17,396 - __main__ - INFO - Epoch:61, train_mae:22.13, val_mae:23.84907054901123, lr=[0.001], time_elapsed:36.941121000000294
+2023-02-24 19:57:17,397 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 19:57:21,133 - __main__ - INFO - Horizon 01, MAE: 24.56, MAPE: 0.1500, RMSE: 40.01
+2023-02-24 19:57:21,135 - __main__ - INFO - Horizon 02, MAE: 24.40, MAPE: 0.1615, RMSE: 39.74
+2023-02-24 19:57:21,136 - __main__ - INFO - Horizon 03, MAE: 23.83, MAPE: 0.1852, RMSE: 37.67
+2023-02-24 19:57:21,137 - __main__ - INFO - Horizon 04, MAE: 24.08, MAPE: 0.2214, RMSE: 38.33
+2023-02-24 19:57:21,137 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 19:58:02,411 - __main__ - INFO - Epoch:62, train_mae:21.92, val_mae:23.262648582458496, lr=[0.001], time_elapsed:41.27310089999992
+2023-02-24 19:58:02,411 - __main__ - INFO - val_mae decreased from 23.53 to 23.26
+2023-02-24 19:58:02,412 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 19:58:06,660 - __main__ - INFO - Horizon 01, MAE: 23.79, MAPE: 0.1457, RMSE: 38.73
+2023-02-24 19:58:06,662 - __main__ - INFO - Horizon 02, MAE: 24.20, MAPE: 0.1516, RMSE: 40.40
+2023-02-24 19:58:06,663 - __main__ - INFO - Horizon 03, MAE: 23.56, MAPE: 0.1729, RMSE: 37.97
+2023-02-24 19:58:06,664 - __main__ - INFO - Horizon 04, MAE: 24.14, MAPE: 0.2037, RMSE: 38.49
+2023-02-24 19:58:06,664 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 19:58:49,540 - __main__ - INFO - Epoch:63, train_mae:22.34, val_mae:23.374141693115234, lr=[0.001], time_elapsed:42.87525370000003
+2023-02-24 19:58:49,540 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 19:58:53,643 - __main__ - INFO - Horizon 01, MAE: 23.64, MAPE: 0.1550, RMSE: 38.68
+2023-02-24 19:58:53,644 - __main__ - INFO - Horizon 02, MAE: 23.39, MAPE: 0.1591, RMSE: 38.14
+2023-02-24 19:58:53,646 - __main__ - INFO - Horizon 03, MAE: 23.49, MAPE: 0.1816, RMSE: 38.13
+2023-02-24 19:58:53,647 - __main__ - INFO - Horizon 04, MAE: 23.39, MAPE: 0.1942, RMSE: 38.38
+2023-02-24 19:58:53,648 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 19:59:33,510 - __main__ - INFO - Epoch:64, train_mae:22.36, val_mae:22.706669330596924, lr=[0.001], time_elapsed:39.86195130000033
+2023-02-24 19:59:33,510 - __main__ - INFO - val_mae decreased from 23.26 to 22.71
+2023-02-24 19:59:33,511 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 19:59:37,467 - __main__ - INFO - Horizon 01, MAE: 24.19, MAPE: 0.1530, RMSE: 38.68
+2023-02-24 19:59:37,468 - __main__ - INFO - Horizon 02, MAE: 23.77, MAPE: 0.1485, RMSE: 38.76
+2023-02-24 19:59:37,469 - __main__ - INFO - Horizon 03, MAE: 23.35, MAPE: 0.1595, RMSE: 36.94
+2023-02-24 19:59:37,470 - __main__ - INFO - Horizon 04, MAE: 23.05, MAPE: 0.1555, RMSE: 37.17
+2023-02-24 19:59:37,471 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:00:17,299 - __main__ - INFO - Epoch:65, train_mae:21.85, val_mae:22.951433658599854, lr=[0.001], time_elapsed:39.82787980000012
+2023-02-24 20:00:17,300 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:00:21,447 - __main__ - INFO - Horizon 01, MAE: 24.53, MAPE: 0.1455, RMSE: 42.60
+2023-02-24 20:00:21,449 - __main__ - INFO - Horizon 02, MAE: 23.64, MAPE: 0.1473, RMSE: 39.21
+2023-02-24 20:00:21,450 - __main__ - INFO - Horizon 03, MAE: 23.42, MAPE: 0.1516, RMSE: 38.08
+2023-02-24 20:00:21,451 - __main__ - INFO - Horizon 04, MAE: 23.61, MAPE: 0.1720, RMSE: 39.01
+2023-02-24 20:00:21,451 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:01:00,737 - __main__ - INFO - Epoch:66, train_mae:22.44, val_mae:23.933804988861084, lr=[0.001], time_elapsed:39.28669510000009
+2023-02-24 20:01:00,738 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:01:04,618 - __main__ - INFO - Horizon 01, MAE: 23.50, MAPE: 0.1360, RMSE: 39.24
+2023-02-24 20:01:04,620 - __main__ - INFO - Horizon 02, MAE: 24.45, MAPE: 0.1527, RMSE: 39.03
+2023-02-24 20:01:04,621 - __main__ - INFO - Horizon 03, MAE: 23.88, MAPE: 0.1611, RMSE: 38.53
+2023-02-24 20:01:04,622 - __main__ - INFO - Horizon 04, MAE: 24.80, MAPE: 0.1902, RMSE: 39.58
+2023-02-24 20:01:04,623 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:01:43,612 - __main__ - INFO - Epoch:67, train_mae:21.71, val_mae:24.05190372467041, lr=[0.001], time_elapsed:38.98943220000001
+2023-02-24 20:01:43,612 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:01:47,524 - __main__ - INFO - Horizon 01, MAE: 24.71, MAPE: 0.1441, RMSE: 39.96
+2023-02-24 20:01:47,525 - __main__ - INFO - Horizon 02, MAE: 24.83, MAPE: 0.1573, RMSE: 40.62
+2023-02-24 20:01:47,526 - __main__ - INFO - Horizon 03, MAE: 24.10, MAPE: 0.1646, RMSE: 39.01
+2023-02-24 20:01:47,527 - __main__ - INFO - Horizon 04, MAE: 23.87, MAPE: 0.1817, RMSE: 38.43
+2023-02-24 20:01:47,527 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:02:27,511 - __main__ - INFO - Epoch:68, train_mae:22.31, val_mae:24.939064502716064, lr=[0.001], time_elapsed:39.982963400000244
+2023-02-24 20:02:27,511 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:02:31,389 - __main__ - INFO - Horizon 01, MAE: 24.51, MAPE: 0.1456, RMSE: 39.36
+2023-02-24 20:02:31,391 - __main__ - INFO - Horizon 02, MAE: 24.57, MAPE: 0.1457, RMSE: 41.12
+2023-02-24 20:02:31,392 - __main__ - INFO - Horizon 03, MAE: 24.95, MAPE: 0.1604, RMSE: 42.40
+2023-02-24 20:02:31,392 - __main__ - INFO - Horizon 04, MAE: 23.58, MAPE: 0.1534, RMSE: 39.10
+2023-02-24 20:02:31,392 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:03:10,851 - __main__ - INFO - Epoch:69, train_mae:22.40, val_mae:24.118247032165527, lr=[0.001], time_elapsed:39.45690990000003
+2023-02-24 20:03:10,851 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:03:14,920 - __main__ - INFO - Horizon 01, MAE: 24.17, MAPE: 0.1555, RMSE: 38.31
+2023-02-24 20:03:14,921 - __main__ - INFO - Horizon 02, MAE: 23.96, MAPE: 0.1651, RMSE: 38.53
+2023-02-24 20:03:14,923 - __main__ - INFO - Horizon 03, MAE: 23.89, MAPE: 0.1945, RMSE: 37.52
+2023-02-24 20:03:14,924 - __main__ - INFO - Horizon 04, MAE: 24.04, MAPE: 0.2321, RMSE: 38.09
+2023-02-24 20:03:14,924 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:03:54,475 - __main__ - INFO - Epoch:70, train_mae:22.53, val_mae:23.853060245513916, lr=[0.001], time_elapsed:39.5509833000001
+2023-02-24 20:03:54,475 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:03:58,682 - __main__ - INFO - Horizon 01, MAE: 26.31, MAPE: 0.1526, RMSE: 45.04
+2023-02-24 20:03:58,684 - __main__ - INFO - Horizon 02, MAE: 24.12, MAPE: 0.1484, RMSE: 40.07
+2023-02-24 20:03:58,685 - __main__ - INFO - Horizon 03, MAE: 24.22, MAPE: 0.1725, RMSE: 38.80
+2023-02-24 20:03:58,686 - __main__ - INFO - Horizon 04, MAE: 24.27, MAPE: 0.1934, RMSE: 38.64
+2023-02-24 20:03:58,686 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:04:37,585 - __main__ - INFO - Epoch:71, train_mae:22.28, val_mae:23.9817533493042, lr=[0.001], time_elapsed:38.89946869999994
+2023-02-24 20:04:37,586 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:04:41,434 - __main__ - INFO - Horizon 01, MAE: 23.74, MAPE: 0.1401, RMSE: 38.38
+2023-02-24 20:04:41,435 - __main__ - INFO - Horizon 02, MAE: 23.74, MAPE: 0.1400, RMSE: 39.01
+2023-02-24 20:04:41,436 - __main__ - INFO - Horizon 03, MAE: 23.85, MAPE: 0.1502, RMSE: 38.70
+2023-02-24 20:04:41,437 - __main__ - INFO - Horizon 04, MAE: 23.65, MAPE: 0.1639, RMSE: 37.96
+2023-02-24 20:04:41,437 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:05:20,836 - __main__ - INFO - Epoch:72, train_mae:21.83, val_mae:24.84733295440674, lr=[0.001], time_elapsed:39.39849630000026
+2023-02-24 20:05:20,836 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:05:24,780 - __main__ - INFO - Horizon 01, MAE: 23.64, MAPE: 0.1396, RMSE: 38.14
+2023-02-24 20:05:24,781 - __main__ - INFO - Horizon 02, MAE: 25.79, MAPE: 0.1450, RMSE: 41.83
+2023-02-24 20:05:24,782 - __main__ - INFO - Horizon 03, MAE: 25.32, MAPE: 0.1556, RMSE: 41.88
+2023-02-24 20:05:24,783 - __main__ - INFO - Horizon 04, MAE: 24.46, MAPE: 0.1545, RMSE: 39.40
+2023-02-24 20:05:24,783 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:06:00,704 - __main__ - INFO - Epoch:73, train_mae:21.89, val_mae:24.2197265625, lr=[0.001], time_elapsed:35.920930399999634
+2023-02-24 20:06:00,704 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:06:05,215 - __main__ - INFO - Horizon 01, MAE: 23.75, MAPE: 0.1571, RMSE: 39.67
+2023-02-24 20:06:05,217 - __main__ - INFO - Horizon 02, MAE: 24.80, MAPE: 0.1483, RMSE: 40.11
+2023-02-24 20:06:05,218 - __main__ - INFO - Horizon 03, MAE: 23.46, MAPE: 0.1427, RMSE: 39.09
+2023-02-24 20:06:05,219 - __main__ - INFO - Horizon 04, MAE: 24.43, MAPE: 0.1709, RMSE: 39.31
+2023-02-24 20:06:05,219 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:06:48,714 - __main__ - INFO - Epoch:74, train_mae:22.28, val_mae:24.367910861968994, lr=[0.001], time_elapsed:43.49474479999981
+2023-02-24 20:06:48,714 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:06:52,829 - __main__ - INFO - Horizon 01, MAE: 24.06, MAPE: 0.1414, RMSE: 39.23
+2023-02-24 20:06:52,831 - __main__ - INFO - Horizon 02, MAE: 25.21, MAPE: 0.1616, RMSE: 41.60
+2023-02-24 20:06:52,832 - __main__ - INFO - Horizon 03, MAE: 23.62, MAPE: 0.1615, RMSE: 37.89
+2023-02-24 20:06:52,833 - __main__ - INFO - Horizon 04, MAE: 23.61, MAPE: 0.1864, RMSE: 38.40
+2023-02-24 20:06:52,833 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:07:33,134 - __main__ - INFO - Epoch:75, train_mae:21.82, val_mae:22.76596975326538, lr=[0.001], time_elapsed:40.29976089999991
+2023-02-24 20:07:33,134 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:07:37,196 - __main__ - INFO - Horizon 01, MAE: 23.29, MAPE: 0.1390, RMSE: 38.23
+2023-02-24 20:07:37,198 - __main__ - INFO - Horizon 02, MAE: 23.41, MAPE: 0.1446, RMSE: 38.56
+2023-02-24 20:07:37,199 - __main__ - INFO - Horizon 03, MAE: 23.08, MAPE: 0.1584, RMSE: 37.39
+2023-02-24 20:07:37,200 - __main__ - INFO - Horizon 04, MAE: 23.24, MAPE: 0.1786, RMSE: 38.02
+2023-02-24 20:07:37,200 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:08:16,927 - __main__ - INFO - Epoch:76, train_mae:21.73, val_mae:23.662174224853516, lr=[0.001], time_elapsed:39.72755409999991
+2023-02-24 20:08:16,927 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:08:20,985 - __main__ - INFO - Horizon 01, MAE: 23.84, MAPE: 0.1445, RMSE: 38.22
+2023-02-24 20:08:20,987 - __main__ - INFO - Horizon 02, MAE: 24.09, MAPE: 0.1537, RMSE: 38.65
+2023-02-24 20:08:20,988 - __main__ - INFO - Horizon 03, MAE: 23.77, MAPE: 0.1663, RMSE: 38.10
+2023-02-24 20:08:20,990 - __main__ - INFO - Horizon 04, MAE: 24.49, MAPE: 0.2073, RMSE: 38.74
+2023-02-24 20:08:20,990 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:08:59,870 - __main__ - INFO - Epoch:77, train_mae:21.74, val_mae:24.6042742729187, lr=[0.001], time_elapsed:38.880579300000136
+2023-02-24 20:08:59,871 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:09:04,165 - __main__ - INFO - Horizon 01, MAE: 23.22, MAPE: 0.1408, RMSE: 38.20
+2023-02-24 20:09:04,167 - __main__ - INFO - Horizon 02, MAE: 23.70, MAPE: 0.1529, RMSE: 38.65
+2023-02-24 20:09:04,168 - __main__ - INFO - Horizon 03, MAE: 24.08, MAPE: 0.1765, RMSE: 38.66
+2023-02-24 20:09:04,169 - __main__ - INFO - Horizon 04, MAE: 23.24, MAPE: 0.1886, RMSE: 37.80
+2023-02-24 20:09:04,169 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:09:43,518 - __main__ - INFO - Epoch:78, train_mae:22.26, val_mae:23.462520122528076, lr=[0.001], time_elapsed:39.34847170000012
+2023-02-24 20:09:43,519 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:09:47,466 - __main__ - INFO - Horizon 01, MAE: 23.59, MAPE: 0.1459, RMSE: 39.08
+2023-02-24 20:09:47,467 - __main__ - INFO - Horizon 02, MAE: 23.88, MAPE: 0.1526, RMSE: 38.81
+2023-02-24 20:09:47,468 - __main__ - INFO - Horizon 03, MAE: 23.44, MAPE: 0.1502, RMSE: 37.74
+2023-02-24 20:09:47,470 - __main__ - INFO - Horizon 04, MAE: 23.06, MAPE: 0.1505, RMSE: 37.24
+2023-02-24 20:09:47,470 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:10:27,127 - __main__ - INFO - Epoch:79, train_mae:21.24, val_mae:24.59092140197754, lr=[0.001], time_elapsed:39.65741920000028
+2023-02-24 20:10:27,127 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:10:31,609 - __main__ - INFO - Horizon 01, MAE: 24.42, MAPE: 0.1609, RMSE: 39.31
+2023-02-24 20:10:31,610 - __main__ - INFO - Horizon 02, MAE: 24.73, MAPE: 0.1829, RMSE: 39.02
+2023-02-24 20:10:31,612 - __main__ - INFO - Horizon 03, MAE: 24.11, MAPE: 0.2121, RMSE: 37.81
+2023-02-24 20:10:31,613 - __main__ - INFO - Horizon 04, MAE: 24.35, MAPE: 0.2565, RMSE: 38.60
+2023-02-24 20:10:31,614 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:11:12,050 - __main__ - INFO - Epoch:80, train_mae:21.20, val_mae:23.652608394622803, lr=[0.001], time_elapsed:40.43654630000037
+2023-02-24 20:11:12,050 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:11:16,258 - __main__ - INFO - Horizon 01, MAE: 23.73, MAPE: 0.1453, RMSE: 38.39
+2023-02-24 20:11:16,259 - __main__ - INFO - Horizon 02, MAE: 23.66, MAPE: 0.1489, RMSE: 38.07
+2023-02-24 20:11:16,260 - __main__ - INFO - Horizon 03, MAE: 24.08, MAPE: 0.1737, RMSE: 38.86
+2023-02-24 20:11:16,261 - __main__ - INFO - Horizon 04, MAE: 24.24, MAPE: 0.1856, RMSE: 39.23
+2023-02-24 20:11:16,261 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:11:55,551 - __main__ - INFO - Epoch:81, train_mae:21.43, val_mae:23.895182132720947, lr=[0.001], time_elapsed:39.28835359999994
+2023-02-24 20:11:55,551 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:11:59,550 - __main__ - INFO - Horizon 01, MAE: 23.83, MAPE: 0.1434, RMSE: 40.09
+2023-02-24 20:11:59,552 - __main__ - INFO - Horizon 02, MAE: 24.39, MAPE: 0.1655, RMSE: 40.14
+2023-02-24 20:11:59,553 - __main__ - INFO - Horizon 03, MAE: 23.94, MAPE: 0.1835, RMSE: 38.98
+2023-02-24 20:11:59,554 - __main__ - INFO - Horizon 04, MAE: 24.19, MAPE: 0.2158, RMSE: 39.67
+2023-02-24 20:11:59,554 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:12:39,426 - __main__ - INFO - Epoch:82, train_mae:21.44, val_mae:25.315005779266357, lr=[0.001], time_elapsed:39.870999199999915
+2023-02-24 20:12:39,426 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:12:43,263 - __main__ - INFO - Horizon 01, MAE: 25.08, MAPE: 0.1756, RMSE: 39.69
+2023-02-24 20:12:43,264 - __main__ - INFO - Horizon 02, MAE: 25.05, MAPE: 0.1855, RMSE: 39.14
+2023-02-24 20:12:43,265 - __main__ - INFO - Horizon 03, MAE: 24.67, MAPE: 0.2076, RMSE: 38.22
+2023-02-24 20:12:43,266 - __main__ - INFO - Horizon 04, MAE: 25.39, MAPE: 0.2602, RMSE: 39.22
+2023-02-24 20:12:43,267 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:13:22,562 - __main__ - INFO - Epoch:83, train_mae:21.92, val_mae:25.00158452987671, lr=[0.001], time_elapsed:39.29476590000013
+2023-02-24 20:13:22,562 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:13:26,427 - __main__ - INFO - Horizon 01, MAE: 25.40, MAPE: 0.1736, RMSE: 40.39
+2023-02-24 20:13:26,428 - __main__ - INFO - Horizon 02, MAE: 25.27, MAPE: 0.1859, RMSE: 39.60
+2023-02-24 20:13:26,429 - __main__ - INFO - Horizon 03, MAE: 25.09, MAPE: 0.2161, RMSE: 38.67
+2023-02-24 20:13:26,430 - __main__ - INFO - Horizon 04, MAE: 25.19, MAPE: 0.2387, RMSE: 39.94
+2023-02-24 20:13:26,430 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:14:05,726 - __main__ - INFO - Epoch:84, train_mae:21.74, val_mae:22.885776042938232, lr=[0.001], time_elapsed:39.295295500000066
+2023-02-24 20:14:05,726 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:14:09,573 - __main__ - INFO - Horizon 01, MAE: 23.41, MAPE: 0.1363, RMSE: 38.74
+2023-02-24 20:14:09,574 - __main__ - INFO - Horizon 02, MAE: 23.54, MAPE: 0.1505, RMSE: 38.43
+2023-02-24 20:14:09,576 - __main__ - INFO - Horizon 03, MAE: 23.27, MAPE: 0.1597, RMSE: 37.41
+2023-02-24 20:14:09,577 - __main__ - INFO - Horizon 04, MAE: 24.05, MAPE: 0.1964, RMSE: 39.84
+2023-02-24 20:14:09,577 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:14:48,924 - __main__ - INFO - Epoch:85, train_mae:21.55, val_mae:22.571719646453857, lr=[0.001], time_elapsed:39.34829780000018
+2023-02-24 20:14:48,925 - __main__ - INFO - val_mae decreased from 22.71 to 22.57
+2023-02-24 20:14:48,925 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:14:53,221 - __main__ - INFO - Horizon 01, MAE: 23.33, MAPE: 0.1390, RMSE: 38.39
+2023-02-24 20:14:53,222 - __main__ - INFO - Horizon 02, MAE: 23.16, MAPE: 0.1421, RMSE: 38.13
+2023-02-24 20:14:53,223 - __main__ - INFO - Horizon 03, MAE: 22.68, MAPE: 0.1444, RMSE: 36.64
+2023-02-24 20:14:53,225 - __main__ - INFO - Horizon 04, MAE: 22.93, MAPE: 0.1762, RMSE: 37.31
+2023-02-24 20:14:53,225 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:15:34,066 - __main__ - INFO - Epoch:86, train_mae:21.79, val_mae:23.046743869781494, lr=[0.001], time_elapsed:40.840331600000354
+2023-02-24 20:15:34,066 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:15:37,905 - __main__ - INFO - Horizon 01, MAE: 23.14, MAPE: 0.1418, RMSE: 38.11
+2023-02-24 20:15:37,907 - __main__ - INFO - Horizon 02, MAE: 23.45, MAPE: 0.1420, RMSE: 39.26
+2023-02-24 20:15:37,908 - __main__ - INFO - Horizon 03, MAE: 22.93, MAPE: 0.1534, RMSE: 37.10
+2023-02-24 20:15:37,909 - __main__ - INFO - Horizon 04, MAE: 23.01, MAPE: 0.1529, RMSE: 37.58
+2023-02-24 20:15:37,909 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:16:17,197 - __main__ - INFO - Epoch:87, train_mae:21.47, val_mae:24.079463958740234, lr=[0.001], time_elapsed:39.28756800000019
+2023-02-24 20:16:17,198 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:16:21,214 - __main__ - INFO - Horizon 01, MAE: 24.42, MAPE: 0.1403, RMSE: 41.33
+2023-02-24 20:16:21,215 - __main__ - INFO - Horizon 02, MAE: 24.64, MAPE: 0.1454, RMSE: 40.83
+2023-02-24 20:16:21,216 - __main__ - INFO - Horizon 03, MAE: 23.59, MAPE: 0.1570, RMSE: 37.51
+2023-02-24 20:16:21,217 - __main__ - INFO - Horizon 04, MAE: 23.81, MAPE: 0.1831, RMSE: 38.86
+2023-02-24 20:16:21,217 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:16:59,804 - __main__ - INFO - Epoch:88, train_mae:21.40, val_mae:22.97532033920288, lr=[0.001], time_elapsed:38.58652299999994
+2023-02-24 20:16:59,805 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:17:03,731 - __main__ - INFO - Horizon 01, MAE: 23.58, MAPE: 0.1408, RMSE: 38.24
+2023-02-24 20:17:03,732 - __main__ - INFO - Horizon 02, MAE: 23.66, MAPE: 0.1479, RMSE: 39.34
+2023-02-24 20:17:03,733 - __main__ - INFO - Horizon 03, MAE: 23.34, MAPE: 0.1641, RMSE: 37.55
+2023-02-24 20:17:03,734 - __main__ - INFO - Horizon 04, MAE: 23.38, MAPE: 0.1802, RMSE: 38.41
+2023-02-24 20:17:03,735 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:17:42,057 - __main__ - INFO - Epoch:89, train_mae:21.07, val_mae:23.03968906402588, lr=[0.001], time_elapsed:38.32205209999984
+2023-02-24 20:17:42,057 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:17:45,959 - __main__ - INFO - Horizon 01, MAE: 23.80, MAPE: 0.1425, RMSE: 39.79
+2023-02-24 20:17:45,960 - __main__ - INFO - Horizon 02, MAE: 23.71, MAPE: 0.1484, RMSE: 39.04
+2023-02-24 20:17:45,961 - __main__ - INFO - Horizon 03, MAE: 23.35, MAPE: 0.1489, RMSE: 38.67
+2023-02-24 20:17:45,962 - __main__ - INFO - Horizon 04, MAE: 23.74, MAPE: 0.1679, RMSE: 39.19
+2023-02-24 20:17:45,963 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:18:23,924 - __main__ - INFO - Epoch:90, train_mae:21.51, val_mae:23.034592628479004, lr=[0.001], time_elapsed:37.96129770000016
+2023-02-24 20:18:23,924 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:18:27,857 - __main__ - INFO - Horizon 01, MAE: 23.86, MAPE: 0.1427, RMSE: 38.92
+2023-02-24 20:18:27,859 - __main__ - INFO - Horizon 02, MAE: 24.22, MAPE: 0.1487, RMSE: 40.99
+2023-02-24 20:18:27,860 - __main__ - INFO - Horizon 03, MAE: 23.38, MAPE: 0.1559, RMSE: 37.52
+2023-02-24 20:18:27,861 - __main__ - INFO - Horizon 04, MAE: 23.48, MAPE: 0.1869, RMSE: 37.70
+2023-02-24 20:18:27,861 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:19:05,417 - __main__ - INFO - Epoch:91, train_mae:21.47, val_mae:23.165222644805908, lr=[0.001], time_elapsed:37.556544999999915
+2023-02-24 20:19:05,418 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:19:09,243 - __main__ - INFO - Horizon 01, MAE: 23.25, MAPE: 0.1386, RMSE: 38.41
+2023-02-24 20:19:09,244 - __main__ - INFO - Horizon 02, MAE: 23.36, MAPE: 0.1456, RMSE: 37.84
+2023-02-24 20:19:09,245 - __main__ - INFO - Horizon 03, MAE: 22.84, MAPE: 0.1442, RMSE: 37.12
+2023-02-24 20:19:09,246 - __main__ - INFO - Horizon 04, MAE: 23.50, MAPE: 0.1581, RMSE: 38.48
+2023-02-24 20:19:09,246 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:19:47,377 - __main__ - INFO - Epoch:92, train_mae:21.29, val_mae:23.996960639953613, lr=[0.001], time_elapsed:38.130035000000134
+2023-02-24 20:19:47,377 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:19:51,091 - __main__ - INFO - Horizon 01, MAE: 24.44, MAPE: 0.1545, RMSE: 39.36
+2023-02-24 20:19:51,093 - __main__ - INFO - Horizon 02, MAE: 24.48, MAPE: 0.1671, RMSE: 40.18
+2023-02-24 20:19:51,094 - __main__ - INFO - Horizon 03, MAE: 23.91, MAPE: 0.1891, RMSE: 37.85
+2023-02-24 20:19:51,095 - __main__ - INFO - Horizon 04, MAE: 23.74, MAPE: 0.2310, RMSE: 37.22
+2023-02-24 20:19:51,095 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:20:28,807 - __main__ - INFO - Epoch:93, train_mae:21.35, val_mae:22.868126392364502, lr=[0.001], time_elapsed:37.71130270000003
+2023-02-24 20:20:28,808 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:20:32,554 - __main__ - INFO - Horizon 01, MAE: 23.69, MAPE: 0.1422, RMSE: 38.81
+2023-02-24 20:20:32,556 - __main__ - INFO - Horizon 02, MAE: 23.25, MAPE: 0.1483, RMSE: 37.78
+2023-02-24 20:20:32,557 - __main__ - INFO - Horizon 03, MAE: 22.98, MAPE: 0.1592, RMSE: 36.98
+2023-02-24 20:20:32,558 - __main__ - INFO - Horizon 04, MAE: 23.37, MAPE: 0.1854, RMSE: 37.85
+2023-02-24 20:20:32,558 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:21:10,032 - __main__ - INFO - Epoch:94, train_mae:21.69, val_mae:27.345645904541016, lr=[0.001], time_elapsed:37.472790799999984
+2023-02-24 20:21:10,032 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:21:13,712 - __main__ - INFO - Horizon 01, MAE: 27.73, MAPE: 0.1836, RMSE: 45.38
+2023-02-24 20:21:13,714 - __main__ - INFO - Horizon 02, MAE: 27.69, MAPE: 0.2208, RMSE: 44.64
+2023-02-24 20:21:13,715 - __main__ - INFO - Horizon 03, MAE: 24.41, MAPE: 0.1805, RMSE: 39.06
+2023-02-24 20:21:13,716 - __main__ - INFO - Horizon 04, MAE: 26.73, MAPE: 0.3297, RMSE: 42.41
+2023-02-24 20:21:13,716 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:21:51,263 - __main__ - INFO - Epoch:95, train_mae:21.57, val_mae:23.85298204421997, lr=[0.001], time_elapsed:37.54643720000013
+2023-02-24 20:21:51,264 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:21:54,989 - __main__ - INFO - Horizon 01, MAE: 25.29, MAPE: 0.1508, RMSE: 41.36
+2023-02-24 20:21:54,991 - __main__ - INFO - Horizon 02, MAE: 24.77, MAPE: 0.1681, RMSE: 41.01
+2023-02-24 20:21:54,992 - __main__ - INFO - Horizon 03, MAE: 24.68, MAPE: 0.2012, RMSE: 39.37
+2023-02-24 20:21:54,993 - __main__ - INFO - Horizon 04, MAE: 23.92, MAPE: 0.2078, RMSE: 38.52
+2023-02-24 20:21:54,993 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:22:32,911 - __main__ - INFO - Epoch:96, train_mae:21.16, val_mae:24.62277841567993, lr=[0.001], time_elapsed:37.917045800000324
+2023-02-24 20:22:32,911 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:22:36,633 - __main__ - INFO - Horizon 01, MAE: 24.72, MAPE: 0.1622, RMSE: 39.55
+2023-02-24 20:22:36,635 - __main__ - INFO - Horizon 02, MAE: 25.37, MAPE: 0.1725, RMSE: 41.16
+2023-02-24 20:22:36,636 - __main__ - INFO - Horizon 03, MAE: 24.11, MAPE: 0.1735, RMSE: 38.35
+2023-02-24 20:22:36,637 - __main__ - INFO - Horizon 04, MAE: 25.58, MAPE: 0.2578, RMSE: 39.52
+2023-02-24 20:22:36,637 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:23:14,584 - __main__ - INFO - Epoch:97, train_mae:21.14, val_mae:23.93928575515747, lr=[0.001], time_elapsed:37.94648229999984
+2023-02-24 20:23:14,584 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:23:18,368 - __main__ - INFO - Horizon 01, MAE: 25.34, MAPE: 0.1777, RMSE: 40.43
+2023-02-24 20:23:18,370 - __main__ - INFO - Horizon 02, MAE: 24.83, MAPE: 0.1660, RMSE: 41.07
+2023-02-24 20:23:18,371 - __main__ - INFO - Horizon 03, MAE: 23.70, MAPE: 0.1608, RMSE: 38.23
+2023-02-24 20:23:18,372 - __main__ - INFO - Horizon 04, MAE: 24.37, MAPE: 0.1861, RMSE: 39.29
+2023-02-24 20:23:18,372 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:23:56,583 - __main__ - INFO - Epoch:98, train_mae:21.28, val_mae:23.077674865722656, lr=[0.001], time_elapsed:38.21000889999959
+2023-02-24 20:23:56,583 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:24:00,258 - __main__ - INFO - Horizon 01, MAE: 23.58, MAPE: 0.1406, RMSE: 39.38
+2023-02-24 20:24:00,259 - __main__ - INFO - Horizon 02, MAE: 23.46, MAPE: 0.1529, RMSE: 39.15
+2023-02-24 20:24:00,260 - __main__ - INFO - Horizon 03, MAE: 23.40, MAPE: 0.1862, RMSE: 37.07
+2023-02-24 20:24:00,262 - __main__ - INFO - Horizon 04, MAE: 23.54, MAPE: 0.2224, RMSE: 38.23
+2023-02-24 20:24:00,262 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:24:37,727 - __main__ - INFO - Epoch:99, train_mae:20.99, val_mae:24.328789234161377, lr=[0.001], time_elapsed:37.46421550000014
+2023-02-24 20:24:37,727 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:24:41,489 - __main__ - INFO - Horizon 01, MAE: 24.81, MAPE: 0.1594, RMSE: 38.96
+2023-02-24 20:24:41,491 - __main__ - INFO - Horizon 02, MAE: 24.91, MAPE: 0.1737, RMSE: 39.17
+2023-02-24 20:24:41,492 - __main__ - INFO - Horizon 03, MAE: 24.01, MAPE: 0.1879, RMSE: 37.80
+2023-02-24 20:24:41,492 - __main__ - INFO - Horizon 04, MAE: 24.27, MAPE: 0.2365, RMSE: 37.36
+2023-02-24 20:24:41,493 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:25:19,119 - __main__ - INFO - Epoch:100, train_mae:20.01, val_mae:22.017329692840576, lr=[1e-05], time_elapsed:37.53561949999994
+2023-02-24 20:25:19,119 - __main__ - INFO - val_mae decreased from 22.57 to 22.02
+2023-02-24 20:25:19,119 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:25:22,784 - __main__ - INFO - Horizon 01, MAE: 22.57, MAPE: 0.1337, RMSE: 36.80
+2023-02-24 20:25:22,786 - __main__ - INFO - Horizon 02, MAE: 22.69, MAPE: 0.1384, RMSE: 37.11
+2023-02-24 20:25:22,787 - __main__ - INFO - Horizon 03, MAE: 22.57, MAPE: 0.1437, RMSE: 36.47
+2023-02-24 20:25:22,788 - __main__ - INFO - Horizon 04, MAE: 22.50, MAPE: 0.1593, RMSE: 36.52
+2023-02-24 20:25:22,789 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:26:00,120 - __main__ - INFO - Epoch:101, train_mae:19.74, val_mae:21.99172878265381, lr=[0.0001], time_elapsed:37.330722700000024
+2023-02-24 20:26:00,120 - __main__ - INFO - val_mae decreased from 22.02 to 21.99
+2023-02-24 20:26:00,120 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:26:03,874 - __main__ - INFO - Horizon 01, MAE: 22.56, MAPE: 0.1336, RMSE: 36.99
+2023-02-24 20:26:03,875 - __main__ - INFO - Horizon 02, MAE: 22.68, MAPE: 0.1378, RMSE: 37.30
+2023-02-24 20:26:03,876 - __main__ - INFO - Horizon 03, MAE: 22.52, MAPE: 0.1431, RMSE: 36.46
+2023-02-24 20:26:03,877 - __main__ - INFO - Horizon 04, MAE: 22.46, MAPE: 0.1577, RMSE: 36.66
+2023-02-24 20:26:03,878 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:26:41,255 - __main__ - INFO - Epoch:102, train_mae:19.69, val_mae:21.996473789215088, lr=[0.0001], time_elapsed:37.37661779999962
+2023-02-24 20:26:41,255 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:26:45,054 - __main__ - INFO - Horizon 01, MAE: 22.58, MAPE: 0.1336, RMSE: 37.05
+2023-02-24 20:26:45,055 - __main__ - INFO - Horizon 02, MAE: 22.66, MAPE: 0.1387, RMSE: 37.09
+2023-02-24 20:26:45,056 - __main__ - INFO - Horizon 03, MAE: 22.58, MAPE: 0.1448, RMSE: 36.62
+2023-02-24 20:26:45,057 - __main__ - INFO - Horizon 04, MAE: 22.53, MAPE: 0.1648, RMSE: 36.64
+2023-02-24 20:26:45,058 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:27:22,191 - __main__ - INFO - Epoch:103, train_mae:19.67, val_mae:21.92209482192993, lr=[0.0001], time_elapsed:37.13239020000037
+2023-02-24 20:27:22,191 - __main__ - INFO - val_mae decreased from 21.99 to 21.92
+2023-02-24 20:27:22,191 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:27:25,888 - __main__ - INFO - Horizon 01, MAE: 22.52, MAPE: 0.1341, RMSE: 36.84
+2023-02-24 20:27:25,889 - __main__ - INFO - Horizon 02, MAE: 22.63, MAPE: 0.1388, RMSE: 36.97
+2023-02-24 20:27:25,891 - __main__ - INFO - Horizon 03, MAE: 22.46, MAPE: 0.1441, RMSE: 36.26
+2023-02-24 20:27:25,892 - __main__ - INFO - Horizon 04, MAE: 22.58, MAPE: 0.1630, RMSE: 36.86
+2023-02-24 20:27:25,893 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:28:03,637 - __main__ - INFO - Epoch:104, train_mae:19.64, val_mae:21.94892406463623, lr=[0.0001], time_elapsed:37.74520769999981
+2023-02-24 20:28:03,638 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:28:07,490 - __main__ - INFO - Horizon 01, MAE: 22.55, MAPE: 0.1342, RMSE: 36.82
+2023-02-24 20:28:07,492 - __main__ - INFO - Horizon 02, MAE: 22.70, MAPE: 0.1385, RMSE: 37.13
+2023-02-24 20:28:07,493 - __main__ - INFO - Horizon 03, MAE: 22.58, MAPE: 0.1440, RMSE: 36.65
+2023-02-24 20:28:07,494 - __main__ - INFO - Horizon 04, MAE: 22.57, MAPE: 0.1641, RMSE: 36.80
+2023-02-24 20:28:07,494 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:28:44,741 - __main__ - INFO - Epoch:105, train_mae:19.62, val_mae:21.914287567138672, lr=[0.0001], time_elapsed:37.24629230000028
+2023-02-24 20:28:44,741 - __main__ - INFO - val_mae decreased from 21.92 to 21.91
+2023-02-24 20:28:44,741 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:28:48,679 - __main__ - INFO - Horizon 01, MAE: 22.51, MAPE: 0.1332, RMSE: 36.91
+2023-02-24 20:28:48,681 - __main__ - INFO - Horizon 02, MAE: 22.64, MAPE: 0.1361, RMSE: 37.40
+2023-02-24 20:28:48,682 - __main__ - INFO - Horizon 03, MAE: 22.55, MAPE: 0.1414, RMSE: 36.77
+2023-02-24 20:28:48,683 - __main__ - INFO - Horizon 04, MAE: 22.51, MAPE: 0.1574, RMSE: 36.78
+2023-02-24 20:28:48,683 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:29:26,042 - __main__ - INFO - Epoch:106, train_mae:19.62, val_mae:22.029396057128906, lr=[0.0001], time_elapsed:37.35801480000009
+2023-02-24 20:29:26,043 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:29:30,056 - __main__ - INFO - Horizon 01, MAE: 22.57, MAPE: 0.1328, RMSE: 37.31
+2023-02-24 20:29:30,057 - __main__ - INFO - Horizon 02, MAE: 22.58, MAPE: 0.1354, RMSE: 37.22
+2023-02-24 20:29:30,058 - __main__ - INFO - Horizon 03, MAE: 22.53, MAPE: 0.1408, RMSE: 36.75
+2023-02-24 20:29:30,060 - __main__ - INFO - Horizon 04, MAE: 22.49, MAPE: 0.1560, RMSE: 36.72
+2023-02-24 20:29:30,060 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:30:07,228 - __main__ - INFO - Epoch:107, train_mae:19.58, val_mae:21.954862594604492, lr=[0.0001], time_elapsed:37.16848750000008
+2023-02-24 20:30:07,229 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:30:11,033 - __main__ - INFO - Horizon 01, MAE: 22.52, MAPE: 0.1331, RMSE: 37.15
+2023-02-24 20:30:11,034 - __main__ - INFO - Horizon 02, MAE: 22.65, MAPE: 0.1368, RMSE: 37.30
+2023-02-24 20:30:11,036 - __main__ - INFO - Horizon 03, MAE: 22.49, MAPE: 0.1428, RMSE: 36.42
+2023-02-24 20:30:11,037 - __main__ - INFO - Horizon 04, MAE: 22.47, MAPE: 0.1601, RMSE: 36.65
+2023-02-24 20:30:11,037 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:30:48,450 - __main__ - INFO - Epoch:108, train_mae:19.58, val_mae:21.970340728759766, lr=[0.0001], time_elapsed:37.411744299999555
+2023-02-24 20:30:48,450 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:30:52,133 - __main__ - INFO - Horizon 01, MAE: 22.54, MAPE: 0.1337, RMSE: 37.00
+2023-02-24 20:30:52,134 - __main__ - INFO - Horizon 02, MAE: 22.65, MAPE: 0.1382, RMSE: 37.11
+2023-02-24 20:30:52,135 - __main__ - INFO - Horizon 03, MAE: 22.53, MAPE: 0.1437, RMSE: 36.55
+2023-02-24 20:30:52,137 - __main__ - INFO - Horizon 04, MAE: 22.52, MAPE: 0.1642, RMSE: 36.71
+2023-02-24 20:30:52,137 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:31:29,381 - __main__ - INFO - Epoch:109, train_mae:19.55, val_mae:22.024590969085693, lr=[0.0001], time_elapsed:37.2438946000002
+2023-02-24 20:31:29,381 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:31:33,156 - __main__ - INFO - Horizon 01, MAE: 22.56, MAPE: 0.1326, RMSE: 37.36
+2023-02-24 20:31:33,157 - __main__ - INFO - Horizon 02, MAE: 22.55, MAPE: 0.1359, RMSE: 36.98
+2023-02-24 20:31:33,159 - __main__ - INFO - Horizon 03, MAE: 22.53, MAPE: 0.1421, RMSE: 36.62
+2023-02-24 20:31:33,160 - __main__ - INFO - Horizon 04, MAE: 22.46, MAPE: 0.1564, RMSE: 36.69
+2023-02-24 20:31:33,160 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:32:10,982 - __main__ - INFO - Epoch:110, train_mae:19.54, val_mae:21.933526039123535, lr=[0.0001], time_elapsed:37.82225239999934
+2023-02-24 20:32:10,982 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:32:14,744 - __main__ - INFO - Horizon 01, MAE: 22.54, MAPE: 0.1327, RMSE: 37.14
+2023-02-24 20:32:14,746 - __main__ - INFO - Horizon 02, MAE: 22.58, MAPE: 0.1365, RMSE: 37.06
+2023-02-24 20:32:14,747 - __main__ - INFO - Horizon 03, MAE: 22.55, MAPE: 0.1418, RMSE: 36.76
+2023-02-24 20:32:14,748 - __main__ - INFO - Horizon 04, MAE: 22.57, MAPE: 0.1597, RMSE: 36.96
+2023-02-24 20:32:14,748 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:32:51,903 - __main__ - INFO - Epoch:111, train_mae:19.52, val_mae:22.005685806274414, lr=[0.0001], time_elapsed:37.15451799999937
+2023-02-24 20:32:51,904 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:32:55,617 - __main__ - INFO - Horizon 01, MAE: 22.58, MAPE: 0.1336, RMSE: 37.11
+2023-02-24 20:32:55,618 - __main__ - INFO - Horizon 02, MAE: 22.67, MAPE: 0.1375, RMSE: 37.27
+2023-02-24 20:32:55,619 - __main__ - INFO - Horizon 03, MAE: 22.60, MAPE: 0.1438, RMSE: 36.82
+2023-02-24 20:32:55,621 - __main__ - INFO - Horizon 04, MAE: 22.50, MAPE: 0.1614, RMSE: 36.60
+2023-02-24 20:32:55,621 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:33:32,769 - __main__ - INFO - Epoch:112, train_mae:19.50, val_mae:21.9702205657959, lr=[0.0001], time_elapsed:37.14778589999969
+2023-02-24 20:33:32,769 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:33:36,542 - __main__ - INFO - Horizon 01, MAE: 22.56, MAPE: 0.1330, RMSE: 37.32
+2023-02-24 20:33:36,543 - __main__ - INFO - Horizon 02, MAE: 22.56, MAPE: 0.1358, RMSE: 37.15
+2023-02-24 20:33:36,545 - __main__ - INFO - Horizon 03, MAE: 22.62, MAPE: 0.1419, RMSE: 36.95
+2023-02-24 20:33:36,546 - __main__ - INFO - Horizon 04, MAE: 22.47, MAPE: 0.1556, RMSE: 36.75
+2023-02-24 20:33:36,546 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:34:13,611 - __main__ - INFO - Epoch:113, train_mae:19.50, val_mae:21.972383499145508, lr=[0.0001], time_elapsed:37.0649456000001
+2023-02-24 20:34:13,611 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:34:17,275 - __main__ - INFO - Horizon 01, MAE: 22.55, MAPE: 0.1332, RMSE: 37.18
+2023-02-24 20:34:17,277 - __main__ - INFO - Horizon 02, MAE: 22.61, MAPE: 0.1361, RMSE: 37.12
+2023-02-24 20:34:17,278 - __main__ - INFO - Horizon 03, MAE: 22.54, MAPE: 0.1418, RMSE: 36.63
+2023-02-24 20:34:17,279 - __main__ - INFO - Horizon 04, MAE: 22.52, MAPE: 0.1587, RMSE: 36.83
+2023-02-24 20:34:17,280 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:34:54,679 - __main__ - INFO - Epoch:114, train_mae:19.48, val_mae:21.965452194213867, lr=[0.0001], time_elapsed:37.39924379999957
+2023-02-24 20:34:54,679 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:34:58,337 - __main__ - INFO - Horizon 01, MAE: 22.51, MAPE: 0.1339, RMSE: 36.97
+2023-02-24 20:34:58,338 - __main__ - INFO - Horizon 02, MAE: 22.64, MAPE: 0.1372, RMSE: 37.20
+2023-02-24 20:34:58,339 - __main__ - INFO - Horizon 03, MAE: 22.56, MAPE: 0.1429, RMSE: 36.76
+2023-02-24 20:34:58,340 - __main__ - INFO - Horizon 04, MAE: 22.47, MAPE: 0.1569, RMSE: 36.73
+2023-02-24 20:34:58,340 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:35:35,458 - __main__ - INFO - Epoch:115, train_mae:19.49, val_mae:21.932595252990723, lr=[0.0001], time_elapsed:37.11745140000039
+2023-02-24 20:35:35,458 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:35:39,224 - __main__ - INFO - Horizon 01, MAE: 22.50, MAPE: 0.1332, RMSE: 37.06
+2023-02-24 20:35:39,226 - __main__ - INFO - Horizon 02, MAE: 22.56, MAPE: 0.1370, RMSE: 36.97
+2023-02-24 20:35:39,227 - __main__ - INFO - Horizon 03, MAE: 22.50, MAPE: 0.1431, RMSE: 36.52
+2023-02-24 20:35:39,228 - __main__ - INFO - Horizon 04, MAE: 22.45, MAPE: 0.1602, RMSE: 36.58
+2023-02-24 20:35:39,228 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:36:16,227 - __main__ - INFO - Epoch:116, train_mae:19.47, val_mae:21.941444396972656, lr=[0.0001], time_elapsed:36.999224800000775
+2023-02-24 20:36:16,228 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:36:19,889 - __main__ - INFO - Horizon 01, MAE: 22.53, MAPE: 0.1329, RMSE: 37.29
+2023-02-24 20:36:19,890 - __main__ - INFO - Horizon 02, MAE: 22.58, MAPE: 0.1363, RMSE: 37.12
+2023-02-24 20:36:19,891 - __main__ - INFO - Horizon 03, MAE: 22.50, MAPE: 0.1419, RMSE: 36.58
+2023-02-24 20:36:19,893 - __main__ - INFO - Horizon 04, MAE: 22.48, MAPE: 0.1558, RMSE: 36.83
+2023-02-24 20:36:19,893 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:36:57,074 - __main__ - INFO - Epoch:117, train_mae:19.45, val_mae:21.994197845458984, lr=[0.0001], time_elapsed:37.17977229999997
+2023-02-24 20:36:57,074 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:37:00,872 - __main__ - INFO - Horizon 01, MAE: 22.52, MAPE: 0.1335, RMSE: 36.99
+2023-02-24 20:37:00,873 - __main__ - INFO - Horizon 02, MAE: 22.56, MAPE: 0.1372, RMSE: 36.95
+2023-02-24 20:37:00,874 - __main__ - INFO - Horizon 03, MAE: 22.54, MAPE: 0.1430, RMSE: 36.67
+2023-02-24 20:37:00,876 - __main__ - INFO - Horizon 04, MAE: 22.55, MAPE: 0.1612, RMSE: 36.99
+2023-02-24 20:37:00,876 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:37:38,396 - __main__ - INFO - Epoch:118, train_mae:19.44, val_mae:21.942744731903076, lr=[0.0001], time_elapsed:37.51907299999948
+2023-02-24 20:37:38,396 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:37:42,285 - __main__ - INFO - Horizon 01, MAE: 22.51, MAPE: 0.1325, RMSE: 37.04
+2023-02-24 20:37:42,286 - __main__ - INFO - Horizon 02, MAE: 22.62, MAPE: 0.1378, RMSE: 37.09
+2023-02-24 20:37:42,287 - __main__ - INFO - Horizon 03, MAE: 22.57, MAPE: 0.1464, RMSE: 36.70
+2023-02-24 20:37:42,288 - __main__ - INFO - Horizon 04, MAE: 22.62, MAPE: 0.1623, RMSE: 36.99
+2023-02-24 20:37:42,289 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:38:18,827 - __main__ - INFO - Epoch:119, train_mae:19.43, val_mae:22.011425971984863, lr=[0.0001], time_elapsed:36.53917050000018
+2023-02-24 20:38:18,828 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:38:22,642 - __main__ - INFO - Horizon 01, MAE: 22.53, MAPE: 0.1332, RMSE: 37.19
+2023-02-24 20:38:22,643 - __main__ - INFO - Horizon 02, MAE: 22.58, MAPE: 0.1369, RMSE: 37.20
+2023-02-24 20:38:22,644 - __main__ - INFO - Horizon 03, MAE: 22.44, MAPE: 0.1429, RMSE: 36.48
+2023-02-24 20:38:22,646 - __main__ - INFO - Horizon 04, MAE: 22.36, MAPE: 0.1578, RMSE: 36.42
+2023-02-24 20:38:22,646 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:39:00,131 - __main__ - INFO - Epoch:120, train_mae:19.44, val_mae:22.083232879638672, lr=[0.0001], time_elapsed:37.48485979999987
+2023-02-24 20:39:00,131 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:39:04,086 - __main__ - INFO - Horizon 01, MAE: 22.50, MAPE: 0.1329, RMSE: 36.94
+2023-02-24 20:39:04,088 - __main__ - INFO - Horizon 02, MAE: 22.58, MAPE: 0.1381, RMSE: 36.97
+2023-02-24 20:39:04,089 - __main__ - INFO - Horizon 03, MAE: 22.51, MAPE: 0.1467, RMSE: 36.42
+2023-02-24 20:39:04,090 - __main__ - INFO - Horizon 04, MAE: 22.49, MAPE: 0.1647, RMSE: 36.56
+2023-02-24 20:39:04,090 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:39:40,968 - __main__ - INFO - Epoch:121, train_mae:19.42, val_mae:22.01453447341919, lr=[0.0001], time_elapsed:36.87771890000022
+2023-02-24 20:39:40,968 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:39:44,879 - __main__ - INFO - Horizon 01, MAE: 22.56, MAPE: 0.1335, RMSE: 37.05
+2023-02-24 20:39:44,880 - __main__ - INFO - Horizon 02, MAE: 22.64, MAPE: 0.1377, RMSE: 37.08
+2023-02-24 20:39:44,881 - __main__ - INFO - Horizon 03, MAE: 22.55, MAPE: 0.1449, RMSE: 36.66
+2023-02-24 20:39:44,883 - __main__ - INFO - Horizon 04, MAE: 22.57, MAPE: 0.1621, RMSE: 37.05
+2023-02-24 20:39:44,883 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:40:21,756 - __main__ - INFO - Epoch:122, train_mae:19.40, val_mae:22.016165256500244, lr=[0.0001], time_elapsed:36.87327189999996
+2023-02-24 20:40:21,757 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:40:25,483 - __main__ - INFO - Horizon 01, MAE: 22.53, MAPE: 0.1338, RMSE: 36.92
+2023-02-24 20:40:25,485 - __main__ - INFO - Horizon 02, MAE: 22.68, MAPE: 0.1376, RMSE: 37.34
+2023-02-24 20:40:25,486 - __main__ - INFO - Horizon 03, MAE: 22.56, MAPE: 0.1445, RMSE: 36.64
+2023-02-24 20:40:25,487 - __main__ - INFO - Horizon 04, MAE: 22.56, MAPE: 0.1641, RMSE: 36.87
+2023-02-24 20:40:25,487 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:41:02,404 - __main__ - INFO - Epoch:123, train_mae:19.38, val_mae:22.029629707336426, lr=[0.0001], time_elapsed:36.91665660000035
+2023-02-24 20:41:02,404 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:41:06,070 - __main__ - INFO - Horizon 01, MAE: 22.55, MAPE: 0.1338, RMSE: 37.05
+2023-02-24 20:41:06,072 - __main__ - INFO - Horizon 02, MAE: 22.69, MAPE: 0.1378, RMSE: 37.33
+2023-02-24 20:41:06,073 - __main__ - INFO - Horizon 03, MAE: 22.52, MAPE: 0.1444, RMSE: 36.61
+2023-02-24 20:41:06,074 - __main__ - INFO - Horizon 04, MAE: 22.51, MAPE: 0.1613, RMSE: 36.70
+2023-02-24 20:41:06,074 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:41:43,332 - __main__ - INFO - Epoch:124, train_mae:19.38, val_mae:22.00232982635498, lr=[0.0001], time_elapsed:37.25790280000001
+2023-02-24 20:41:43,333 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:41:47,102 - __main__ - INFO - Horizon 01, MAE: 22.54, MAPE: 0.1341, RMSE: 36.96
+2023-02-24 20:41:47,103 - __main__ - INFO - Horizon 02, MAE: 22.67, MAPE: 0.1385, RMSE: 37.12
+2023-02-24 20:41:47,105 - __main__ - INFO - Horizon 03, MAE: 22.65, MAPE: 0.1452, RMSE: 36.94
+2023-02-24 20:41:47,106 - __main__ - INFO - Horizon 04, MAE: 22.58, MAPE: 0.1604, RMSE: 36.96
+2023-02-24 20:41:47,106 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:42:24,355 - __main__ - INFO - Epoch:125, train_mae:19.36, val_mae:21.929763793945312, lr=[0.0001], time_elapsed:37.248376599999574
+2023-02-24 20:42:24,355 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:42:28,239 - __main__ - INFO - Horizon 01, MAE: 22.51, MAPE: 0.1333, RMSE: 37.04
+2023-02-24 20:42:28,240 - __main__ - INFO - Horizon 02, MAE: 22.61, MAPE: 0.1378, RMSE: 37.04
+2023-02-24 20:42:28,241 - __main__ - INFO - Horizon 03, MAE: 22.53, MAPE: 0.1429, RMSE: 36.64
+2023-02-24 20:42:28,242 - __main__ - INFO - Horizon 04, MAE: 22.45, MAPE: 0.1607, RMSE: 36.67
+2023-02-24 20:42:28,243 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:43:05,617 - __main__ - INFO - Epoch:126, train_mae:19.35, val_mae:21.947813987731934, lr=[0.0001], time_elapsed:37.373800200000005
+2023-02-24 20:43:05,617 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:43:09,493 - __main__ - INFO - Horizon 01, MAE: 22.48, MAPE: 0.1326, RMSE: 37.15
+2023-02-24 20:43:09,495 - __main__ - INFO - Horizon 02, MAE: 22.55, MAPE: 0.1358, RMSE: 37.06
+2023-02-24 20:43:09,496 - __main__ - INFO - Horizon 03, MAE: 22.46, MAPE: 0.1407, RMSE: 36.64
+2023-02-24 20:43:09,497 - __main__ - INFO - Horizon 04, MAE: 22.40, MAPE: 0.1551, RMSE: 36.72
+2023-02-24 20:43:09,497 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:43:48,058 - __main__ - INFO - Epoch:127, train_mae:19.35, val_mae:21.961276531219482, lr=[0.0001], time_elapsed:38.56035049999991
+2023-02-24 20:43:48,058 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:43:51,834 - __main__ - INFO - Horizon 01, MAE: 22.46, MAPE: 0.1326, RMSE: 37.08
+2023-02-24 20:43:51,836 - __main__ - INFO - Horizon 02, MAE: 22.55, MAPE: 0.1357, RMSE: 37.06
+2023-02-24 20:43:51,837 - __main__ - INFO - Horizon 03, MAE: 22.43, MAPE: 0.1408, RMSE: 36.48
+2023-02-24 20:43:51,838 - __main__ - INFO - Horizon 04, MAE: 22.51, MAPE: 0.1565, RMSE: 37.01
+2023-02-24 20:43:51,838 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:44:29,348 - __main__ - INFO - Epoch:128, train_mae:19.33, val_mae:21.980682373046875, lr=[0.0001], time_elapsed:37.50994030000038
+2023-02-24 20:44:29,349 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:44:33,278 - __main__ - INFO - Horizon 01, MAE: 22.55, MAPE: 0.1328, RMSE: 37.21
+2023-02-24 20:44:33,279 - __main__ - INFO - Horizon 02, MAE: 22.56, MAPE: 0.1367, RMSE: 36.99
+2023-02-24 20:44:33,280 - __main__ - INFO - Horizon 03, MAE: 22.48, MAPE: 0.1441, RMSE: 36.40
+2023-02-24 20:44:33,281 - __main__ - INFO - Horizon 04, MAE: 22.50, MAPE: 0.1590, RMSE: 36.75
+2023-02-24 20:44:33,281 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:45:10,335 - __main__ - INFO - Epoch:129, train_mae:19.32, val_mae:22.021199226379395, lr=[0.0001], time_elapsed:37.0525047000001
+2023-02-24 20:45:10,335 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:45:14,231 - __main__ - INFO - Horizon 01, MAE: 22.50, MAPE: 0.1323, RMSE: 37.13
+2023-02-24 20:45:14,233 - __main__ - INFO - Horizon 02, MAE: 22.59, MAPE: 0.1362, RMSE: 37.14
+2023-02-24 20:45:14,234 - __main__ - INFO - Horizon 03, MAE: 22.44, MAPE: 0.1407, RMSE: 36.50
+2023-02-24 20:45:14,235 - __main__ - INFO - Horizon 04, MAE: 22.49, MAPE: 0.1600, RMSE: 36.80
+2023-02-24 20:45:14,235 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:45:52,078 - __main__ - INFO - Epoch:130, train_mae:19.32, val_mae:22.092693328857422, lr=[0.0001], time_elapsed:37.84142149999934
+2023-02-24 20:45:52,078 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:45:55,872 - __main__ - INFO - Horizon 01, MAE: 22.57, MAPE: 0.1339, RMSE: 37.04
+2023-02-24 20:45:55,873 - __main__ - INFO - Horizon 02, MAE: 22.72, MAPE: 0.1378, RMSE: 37.33
+2023-02-24 20:45:55,874 - __main__ - INFO - Horizon 03, MAE: 22.64, MAPE: 0.1450, RMSE: 36.84
+2023-02-24 20:45:55,876 - __main__ - INFO - Horizon 04, MAE: 22.61, MAPE: 0.1617, RMSE: 37.06
+2023-02-24 20:45:55,876 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:46:33,427 - __main__ - INFO - Epoch:131, train_mae:19.31, val_mae:21.945019245147705, lr=[0.0001], time_elapsed:37.55146379999951
+2023-02-24 20:46:33,427 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:46:37,085 - __main__ - INFO - Horizon 01, MAE: 22.53, MAPE: 0.1330, RMSE: 37.03
+2023-02-24 20:46:37,086 - __main__ - INFO - Horizon 02, MAE: 22.64, MAPE: 0.1368, RMSE: 37.25
+2023-02-24 20:46:37,087 - __main__ - INFO - Horizon 03, MAE: 22.48, MAPE: 0.1420, RMSE: 36.46
+2023-02-24 20:46:37,088 - __main__ - INFO - Horizon 04, MAE: 22.48, MAPE: 0.1552, RMSE: 36.91
+2023-02-24 20:46:37,088 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:47:14,781 - __main__ - INFO - Epoch:132, train_mae:19.30, val_mae:22.021480083465576, lr=[0.0001], time_elapsed:37.692743300000075
+2023-02-24 20:47:14,781 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:47:18,621 - __main__ - INFO - Horizon 01, MAE: 22.49, MAPE: 0.1327, RMSE: 37.12
+2023-02-24 20:47:18,623 - __main__ - INFO - Horizon 02, MAE: 22.60, MAPE: 0.1359, RMSE: 37.22
+2023-02-24 20:47:18,624 - __main__ - INFO - Horizon 03, MAE: 22.61, MAPE: 0.1423, RMSE: 36.94
+2023-02-24 20:47:18,625 - __main__ - INFO - Horizon 04, MAE: 22.46, MAPE: 0.1516, RMSE: 36.85
+2023-02-24 20:47:18,625 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:47:55,782 - __main__ - INFO - Epoch:133, train_mae:19.29, val_mae:22.081966876983643, lr=[0.0001], time_elapsed:37.1567556
+2023-02-24 20:47:55,783 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:47:59,495 - __main__ - INFO - Horizon 01, MAE: 22.51, MAPE: 0.1329, RMSE: 37.00
+2023-02-24 20:47:59,496 - __main__ - INFO - Horizon 02, MAE: 22.58, MAPE: 0.1367, RMSE: 36.96
+2023-02-24 20:47:59,497 - __main__ - INFO - Horizon 03, MAE: 22.57, MAPE: 0.1421, RMSE: 36.91
+2023-02-24 20:47:59,498 - __main__ - INFO - Horizon 04, MAE: 22.43, MAPE: 0.1583, RMSE: 36.65
+2023-02-24 20:47:59,499 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:48:36,520 - __main__ - INFO - Epoch:134, train_mae:19.29, val_mae:22.03953790664673, lr=[0.0001], time_elapsed:37.021199499999966
+2023-02-24 20:48:36,520 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:48:40,326 - __main__ - INFO - Horizon 01, MAE: 22.54, MAPE: 0.1334, RMSE: 36.93
+2023-02-24 20:48:40,327 - __main__ - INFO - Horizon 02, MAE: 22.69, MAPE: 0.1385, RMSE: 37.25
+2023-02-24 20:48:40,329 - __main__ - INFO - Horizon 03, MAE: 22.51, MAPE: 0.1468, RMSE: 36.49
+2023-02-24 20:48:40,330 - __main__ - INFO - Horizon 04, MAE: 22.52, MAPE: 0.1650, RMSE: 36.68
+2023-02-24 20:48:40,330 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:49:17,212 - __main__ - INFO - Epoch:135, train_mae:19.27, val_mae:22.154624938964844, lr=[0.0001], time_elapsed:36.881397500000276
+2023-02-24 20:49:17,212 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:49:21,073 - __main__ - INFO - Horizon 01, MAE: 22.61, MAPE: 0.1334, RMSE: 37.33
+2023-02-24 20:49:21,074 - __main__ - INFO - Horizon 02, MAE: 22.73, MAPE: 0.1398, RMSE: 37.39
+2023-02-24 20:49:21,075 - __main__ - INFO - Horizon 03, MAE: 22.56, MAPE: 0.1459, RMSE: 36.75
+2023-02-24 20:49:21,076 - __main__ - INFO - Horizon 04, MAE: 22.72, MAPE: 0.1676, RMSE: 37.32
+2023-02-24 20:49:21,076 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:49:58,381 - __main__ - INFO - Epoch:136, train_mae:19.27, val_mae:22.010157108306885, lr=[0.0001], time_elapsed:37.304434099999526
+2023-02-24 20:49:58,381 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:50:02,261 - __main__ - INFO - Horizon 01, MAE: 22.57, MAPE: 0.1341, RMSE: 37.19
+2023-02-24 20:50:02,263 - __main__ - INFO - Horizon 02, MAE: 22.67, MAPE: 0.1380, RMSE: 37.20
+2023-02-24 20:50:02,264 - __main__ - INFO - Horizon 03, MAE: 22.53, MAPE: 0.1450, RMSE: 36.53
+2023-02-24 20:50:02,265 - __main__ - INFO - Horizon 04, MAE: 22.47, MAPE: 0.1607, RMSE: 36.68
+2023-02-24 20:50:02,265 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:50:39,594 - __main__ - INFO - Epoch:137, train_mae:19.26, val_mae:22.09544563293457, lr=[0.0001], time_elapsed:37.32890409999982
+2023-02-24 20:50:39,594 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:50:43,364 - __main__ - INFO - Horizon 01, MAE: 22.57, MAPE: 0.1326, RMSE: 37.48
+2023-02-24 20:50:43,366 - __main__ - INFO - Horizon 02, MAE: 22.54, MAPE: 0.1356, RMSE: 37.15
+2023-02-24 20:50:43,367 - __main__ - INFO - Horizon 03, MAE: 22.48, MAPE: 0.1404, RMSE: 36.79
+2023-02-24 20:50:43,368 - __main__ - INFO - Horizon 04, MAE: 22.39, MAPE: 0.1562, RMSE: 36.62
+2023-02-24 20:50:43,369 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:51:20,267 - __main__ - INFO - Epoch:138, train_mae:19.23, val_mae:22.00255823135376, lr=[0.0001], time_elapsed:36.89860349999981
+2023-02-24 20:51:20,268 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:51:24,110 - __main__ - INFO - Horizon 01, MAE: 22.51, MAPE: 0.1329, RMSE: 37.01
+2023-02-24 20:51:24,111 - __main__ - INFO - Horizon 02, MAE: 22.55, MAPE: 0.1359, RMSE: 36.98
+2023-02-24 20:51:24,112 - __main__ - INFO - Horizon 03, MAE: 22.53, MAPE: 0.1426, RMSE: 36.72
+2023-02-24 20:51:24,114 - __main__ - INFO - Horizon 04, MAE: 22.47, MAPE: 0.1591, RMSE: 36.66
+2023-02-24 20:51:24,114 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:52:01,463 - __main__ - INFO - Epoch:139, train_mae:19.23, val_mae:22.016658782958984, lr=[0.0001], time_elapsed:37.34844669999984
+2023-02-24 20:52:01,463 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:52:05,216 - __main__ - INFO - Horizon 01, MAE: 22.49, MAPE: 0.1323, RMSE: 37.24
+2023-02-24 20:52:05,217 - __main__ - INFO - Horizon 02, MAE: 22.56, MAPE: 0.1355, RMSE: 37.24
+2023-02-24 20:52:05,218 - __main__ - INFO - Horizon 03, MAE: 22.35, MAPE: 0.1402, RMSE: 36.32
+2023-02-24 20:52:05,220 - __main__ - INFO - Horizon 04, MAE: 22.40, MAPE: 0.1547, RMSE: 36.69
+2023-02-24 20:52:05,220 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:52:42,431 - __main__ - INFO - Epoch:140, train_mae:19.22, val_mae:21.958594799041748, lr=[0.0001], time_elapsed:37.21153359999971
+2023-02-24 20:52:42,432 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:52:46,134 - __main__ - INFO - Horizon 01, MAE: 22.49, MAPE: 0.1335, RMSE: 37.14
+2023-02-24 20:52:46,135 - __main__ - INFO - Horizon 02, MAE: 22.58, MAPE: 0.1383, RMSE: 37.04
+2023-02-24 20:52:46,137 - __main__ - INFO - Horizon 03, MAE: 22.46, MAPE: 0.1429, RMSE: 36.55
+2023-02-24 20:52:46,138 - __main__ - INFO - Horizon 04, MAE: 22.44, MAPE: 0.1586, RMSE: 36.74
+2023-02-24 20:52:46,138 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:53:23,175 - __main__ - INFO - Epoch:141, train_mae:19.22, val_mae:22.050588130950928, lr=[0.0001], time_elapsed:37.03649880000012
+2023-02-24 20:53:23,175 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:53:26,957 - __main__ - INFO - Horizon 01, MAE: 22.57, MAPE: 0.1338, RMSE: 37.36
+2023-02-24 20:53:26,958 - __main__ - INFO - Horizon 02, MAE: 22.67, MAPE: 0.1377, RMSE: 37.37
+2023-02-24 20:53:26,960 - __main__ - INFO - Horizon 03, MAE: 22.50, MAPE: 0.1442, RMSE: 36.51
+2023-02-24 20:53:26,961 - __main__ - INFO - Horizon 04, MAE: 22.50, MAPE: 0.1605, RMSE: 36.86
+2023-02-24 20:53:26,961 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:54:04,084 - __main__ - INFO - Epoch:142, train_mae:19.19, val_mae:21.905908584594727, lr=[0.0001], time_elapsed:37.122801000000436
+2023-02-24 20:54:04,084 - __main__ - INFO - val_mae decreased from 21.91 to 21.91
+2023-02-24 20:54:04,085 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:54:07,830 - __main__ - INFO - Horizon 01, MAE: 22.45, MAPE: 0.1331, RMSE: 36.94
+2023-02-24 20:54:07,832 - __main__ - INFO - Horizon 02, MAE: 22.59, MAPE: 0.1368, RMSE: 37.00
+2023-02-24 20:54:07,833 - __main__ - INFO - Horizon 03, MAE: 22.44, MAPE: 0.1425, RMSE: 36.43
+2023-02-24 20:54:07,834 - __main__ - INFO - Horizon 04, MAE: 22.50, MAPE: 0.1598, RMSE: 36.81
+2023-02-24 20:54:07,835 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:54:44,964 - __main__ - INFO - Epoch:143, train_mae:19.20, val_mae:21.988322257995605, lr=[0.0001], time_elapsed:37.1288698999997
+2023-02-24 20:54:44,965 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:54:48,805 - __main__ - INFO - Horizon 01, MAE: 22.52, MAPE: 0.1328, RMSE: 37.21
+2023-02-24 20:54:48,806 - __main__ - INFO - Horizon 02, MAE: 22.57, MAPE: 0.1361, RMSE: 37.27
+2023-02-24 20:54:48,808 - __main__ - INFO - Horizon 03, MAE: 22.45, MAPE: 0.1426, RMSE: 36.55
+2023-02-24 20:54:48,809 - __main__ - INFO - Horizon 04, MAE: 22.42, MAPE: 0.1584, RMSE: 36.58
+2023-02-24 20:54:48,809 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:55:25,425 - __main__ - INFO - Epoch:144, train_mae:19.19, val_mae:21.9700288772583, lr=[0.0001], time_elapsed:36.616146800000024
+2023-02-24 20:55:25,426 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:55:29,703 - __main__ - INFO - Horizon 01, MAE: 22.50, MAPE: 0.1326, RMSE: 37.03
+2023-02-24 20:55:29,705 - __main__ - INFO - Horizon 02, MAE: 22.53, MAPE: 0.1361, RMSE: 36.85
+2023-02-24 20:55:29,706 - __main__ - INFO - Horizon 03, MAE: 22.50, MAPE: 0.1430, RMSE: 36.47
+2023-02-24 20:55:29,707 - __main__ - INFO - Horizon 04, MAE: 22.52, MAPE: 0.1571, RMSE: 36.86
+2023-02-24 20:55:29,707 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:56:07,665 - __main__ - INFO - Epoch:145, train_mae:19.19, val_mae:22.050310611724854, lr=[0.0001], time_elapsed:37.95745249999982
+2023-02-24 20:56:07,666 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:56:11,405 - __main__ - INFO - Horizon 01, MAE: 22.50, MAPE: 0.1332, RMSE: 37.30
+2023-02-24 20:56:11,406 - __main__ - INFO - Horizon 02, MAE: 22.62, MAPE: 0.1359, RMSE: 37.30
+2023-02-24 20:56:11,407 - __main__ - INFO - Horizon 03, MAE: 22.57, MAPE: 0.1406, RMSE: 37.09
+2023-02-24 20:56:11,408 - __main__ - INFO - Horizon 04, MAE: 22.38, MAPE: 0.1498, RMSE: 36.63
+2023-02-24 20:56:11,409 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:56:48,596 - __main__ - INFO - Epoch:146, train_mae:19.15, val_mae:22.020812034606934, lr=[0.0001], time_elapsed:37.18698519999998
+2023-02-24 20:56:48,596 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:56:52,291 - __main__ - INFO - Horizon 01, MAE: 22.53, MAPE: 0.1325, RMSE: 37.35
+2023-02-24 20:56:52,293 - __main__ - INFO - Horizon 02, MAE: 22.46, MAPE: 0.1357, RMSE: 36.70
+2023-02-24 20:56:52,294 - __main__ - INFO - Horizon 03, MAE: 22.51, MAPE: 0.1411, RMSE: 36.81
+2023-02-24 20:56:52,295 - __main__ - INFO - Horizon 04, MAE: 22.42, MAPE: 0.1561, RMSE: 36.63
+2023-02-24 20:56:52,295 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:57:29,788 - __main__ - INFO - Epoch:147, train_mae:19.14, val_mae:21.966300010681152, lr=[0.0001], time_elapsed:37.4924134999992
+2023-02-24 20:57:29,788 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:57:33,475 - __main__ - INFO - Horizon 01, MAE: 22.45, MAPE: 0.1326, RMSE: 37.01
+2023-02-24 20:57:33,477 - __main__ - INFO - Horizon 02, MAE: 22.47, MAPE: 0.1355, RMSE: 36.88
+2023-02-24 20:57:33,478 - __main__ - INFO - Horizon 03, MAE: 22.42, MAPE: 0.1405, RMSE: 36.50
+2023-02-24 20:57:33,479 - __main__ - INFO - Horizon 04, MAE: 22.37, MAPE: 0.1545, RMSE: 36.59
+2023-02-24 20:57:33,479 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:58:11,053 - __main__ - INFO - Epoch:148, train_mae:19.16, val_mae:22.09012222290039, lr=[0.0001], time_elapsed:37.57312019999972
+2023-02-24 20:58:11,053 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:58:14,849 - __main__ - INFO - Horizon 01, MAE: 22.56, MAPE: 0.1339, RMSE: 37.05
+2023-02-24 20:58:14,850 - __main__ - INFO - Horizon 02, MAE: 22.70, MAPE: 0.1378, RMSE: 37.42
+2023-02-24 20:58:14,851 - __main__ - INFO - Horizon 03, MAE: 22.55, MAPE: 0.1430, RMSE: 36.63
+2023-02-24 20:58:14,853 - __main__ - INFO - Horizon 04, MAE: 22.49, MAPE: 0.1568, RMSE: 36.77
+2023-02-24 20:58:14,853 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:58:52,098 - __main__ - INFO - Epoch:149, train_mae:19.14, val_mae:21.98232126235962, lr=[0.0001], time_elapsed:37.24484140000004
+2023-02-24 20:58:52,098 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:58:55,867 - __main__ - INFO - Horizon 01, MAE: 22.52, MAPE: 0.1330, RMSE: 37.12
+2023-02-24 20:58:55,869 - __main__ - INFO - Horizon 02, MAE: 22.59, MAPE: 0.1373, RMSE: 37.18
+2023-02-24 20:58:55,870 - __main__ - INFO - Horizon 03, MAE: 22.50, MAPE: 0.1447, RMSE: 36.46
+2023-02-24 20:58:55,871 - __main__ - INFO - Horizon 04, MAE: 22.59, MAPE: 0.1622, RMSE: 36.84
+2023-02-24 20:58:55,871 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 20:59:33,072 - __main__ - INFO - Epoch:150, train_mae:19.03, val_mae:21.831071853637695, lr=[1.0000000000000002e-06], time_elapsed:37.12370499999997
+2023-02-24 20:59:33,072 - __main__ - INFO - val_mae decreased from 21.91 to 21.83
+2023-02-24 20:59:33,073 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 20:59:36,798 - __main__ - INFO - Horizon 01, MAE: 22.52, MAPE: 0.1336, RMSE: 37.31
+2023-02-24 20:59:36,800 - __main__ - INFO - Horizon 02, MAE: 22.49, MAPE: 0.1362, RMSE: 37.00
+2023-02-24 20:59:36,801 - __main__ - INFO - Horizon 03, MAE: 22.41, MAPE: 0.1387, RMSE: 36.60
+2023-02-24 20:59:36,802 - __main__ - INFO - Horizon 04, MAE: 22.17, MAPE: 0.1452, RMSE: 36.14
+2023-02-24 20:59:36,802 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 21:00:14,198 - __main__ - INFO - Epoch:151, train_mae:18.99, val_mae:21.794937133789062, lr=[1e-05], time_elapsed:37.396520399999645
+2023-02-24 21:00:14,198 - __main__ - INFO - val_mae decreased from 21.83 to 21.79
+2023-02-24 21:00:14,198 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 21:00:17,958 - __main__ - INFO - Horizon 01, MAE: 22.51, MAPE: 0.1337, RMSE: 37.28
+2023-02-24 21:00:17,960 - __main__ - INFO - Horizon 02, MAE: 22.47, MAPE: 0.1360, RMSE: 36.89
+2023-02-24 21:00:17,961 - __main__ - INFO - Horizon 03, MAE: 22.40, MAPE: 0.1388, RMSE: 36.58
+2023-02-24 21:00:17,961 - __main__ - INFO - Horizon 04, MAE: 22.18, MAPE: 0.1451, RMSE: 36.19
+2023-02-24 21:00:17,961 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 21:00:55,150 - __main__ - INFO - Epoch:152, train_mae:18.99, val_mae:21.79216766357422, lr=[1e-05], time_elapsed:37.188215899999705
+2023-02-24 21:00:55,151 - __main__ - INFO - val_mae decreased from 21.79 to 21.79
+2023-02-24 21:00:55,151 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 21:00:58,970 - __main__ - INFO - Horizon 01, MAE: 22.53, MAPE: 0.1337, RMSE: 37.36
+2023-02-24 21:00:58,971 - __main__ - INFO - Horizon 02, MAE: 22.47, MAPE: 0.1358, RMSE: 36.94
+2023-02-24 21:00:58,972 - __main__ - INFO - Horizon 03, MAE: 22.38, MAPE: 0.1387, RMSE: 36.56
+2023-02-24 21:00:58,973 - __main__ - INFO - Horizon 04, MAE: 22.18, MAPE: 0.1451, RMSE: 36.25
+2023-02-24 21:00:58,973 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 21:01:36,255 - __main__ - INFO - Epoch:153, train_mae:18.97, val_mae:21.78296947479248, lr=[1e-05], time_elapsed:37.28084689999923
+2023-02-24 21:01:36,255 - __main__ - INFO - val_mae decreased from 21.79 to 21.78
+2023-02-24 21:01:36,255 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 21:01:40,189 - __main__ - INFO - Horizon 01, MAE: 22.52, MAPE: 0.1339, RMSE: 37.33
+2023-02-24 21:01:40,190 - __main__ - INFO - Horizon 02, MAE: 22.44, MAPE: 0.1357, RMSE: 36.86
+2023-02-24 21:01:40,192 - __main__ - INFO - Horizon 03, MAE: 22.40, MAPE: 0.1389, RMSE: 36.61
+2023-02-24 21:01:40,193 - __main__ - INFO - Horizon 04, MAE: 22.16, MAPE: 0.1447, RMSE: 36.22
+2023-02-24 21:01:40,193 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 21:02:17,655 - __main__ - INFO - Epoch:154, train_mae:18.97, val_mae:21.78906774520874, lr=[1e-05], time_elapsed:37.461673800000426
+2023-02-24 21:02:17,655 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 21:02:21,411 - __main__ - INFO - Horizon 01, MAE: 22.53, MAPE: 0.1339, RMSE: 37.35
+2023-02-24 21:02:21,412 - __main__ - INFO - Horizon 02, MAE: 22.45, MAPE: 0.1358, RMSE: 36.86
+2023-02-24 21:02:21,414 - __main__ - INFO - Horizon 03, MAE: 22.38, MAPE: 0.1388, RMSE: 36.51
+2023-02-24 21:02:21,415 - __main__ - INFO - Horizon 04, MAE: 22.18, MAPE: 0.1451, RMSE: 36.25
+2023-02-24 21:02:21,415 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 21:02:59,489 - __main__ - INFO - Epoch:155, train_mae:18.97, val_mae:21.789784908294678, lr=[1e-05], time_elapsed:38.07392020000043
+2023-02-24 21:02:59,489 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 21:03:03,276 - __main__ - INFO - Horizon 01, MAE: 22.52, MAPE: 0.1338, RMSE: 37.28
+2023-02-24 21:03:03,277 - __main__ - INFO - Horizon 02, MAE: 22.46, MAPE: 0.1359, RMSE: 36.85
+2023-02-24 21:03:03,278 - __main__ - INFO - Horizon 03, MAE: 22.40, MAPE: 0.1385, RMSE: 36.58
+2023-02-24 21:03:03,279 - __main__ - INFO - Horizon 04, MAE: 22.18, MAPE: 0.1448, RMSE: 36.25
+2023-02-24 21:03:03,280 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 21:03:40,828 - __main__ - INFO - Epoch:156, train_mae:18.97, val_mae:21.79050064086914, lr=[1e-05], time_elapsed:37.547723900000165
+2023-02-24 21:03:40,828 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 21:03:44,698 - __main__ - INFO - Horizon 01, MAE: 22.52, MAPE: 0.1338, RMSE: 37.31
+2023-02-24 21:03:44,699 - __main__ - INFO - Horizon 02, MAE: 22.45, MAPE: 0.1358, RMSE: 36.81
+2023-02-24 21:03:44,700 - __main__ - INFO - Horizon 03, MAE: 22.37, MAPE: 0.1385, RMSE: 36.52
+2023-02-24 21:03:44,702 - __main__ - INFO - Horizon 04, MAE: 22.18, MAPE: 0.1449, RMSE: 36.25
+2023-02-24 21:03:44,702 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 21:04:22,369 - __main__ - INFO - Epoch:157, train_mae:18.96, val_mae:21.8062801361084, lr=[1e-05], time_elapsed:37.66677299999992
+2023-02-24 21:04:22,369 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 21:04:26,338 - __main__ - INFO - Horizon 01, MAE: 22.52, MAPE: 0.1336, RMSE: 37.33
+2023-02-24 21:04:26,339 - __main__ - INFO - Horizon 02, MAE: 22.45, MAPE: 0.1357, RMSE: 36.86
+2023-02-24 21:04:26,340 - __main__ - INFO - Horizon 03, MAE: 22.39, MAPE: 0.1387, RMSE: 36.53
+2023-02-24 21:04:26,341 - __main__ - INFO - Horizon 04, MAE: 22.18, MAPE: 0.1454, RMSE: 36.24
+2023-02-24 21:04:26,341 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 21:05:03,955 - __main__ - INFO - Epoch:158, train_mae:18.96, val_mae:21.77928876876831, lr=[1e-05], time_elapsed:37.61400869999943
+2023-02-24 21:05:03,956 - __main__ - INFO - val_mae decreased from 21.78 to 21.78
+2023-02-24 21:05:03,956 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 21:05:07,693 - __main__ - INFO - Horizon 01, MAE: 22.50, MAPE: 0.1337, RMSE: 37.26
+2023-02-24 21:05:07,695 - __main__ - INFO - Horizon 02, MAE: 22.46, MAPE: 0.1357, RMSE: 36.84
+2023-02-24 21:05:07,696 - __main__ - INFO - Horizon 03, MAE: 22.39, MAPE: 0.1385, RMSE: 36.57
+2023-02-24 21:05:07,697 - __main__ - INFO - Horizon 04, MAE: 22.16, MAPE: 0.1450, RMSE: 36.18
+2023-02-24 21:05:07,697 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 21:05:45,398 - __main__ - INFO - Epoch:159, train_mae:18.95, val_mae:21.77173662185669, lr=[1e-05], time_elapsed:37.70062880000023
+2023-02-24 21:05:45,398 - __main__ - INFO - val_mae decreased from 21.78 to 21.77
+2023-02-24 21:05:45,399 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 21:05:49,102 - __main__ - INFO - Horizon 01, MAE: 22.51, MAPE: 0.1338, RMSE: 37.24
+2023-02-24 21:05:49,104 - __main__ - INFO - Horizon 02, MAE: 22.45, MAPE: 0.1357, RMSE: 36.82
+2023-02-24 21:05:49,105 - __main__ - INFO - Horizon 03, MAE: 22.40, MAPE: 0.1385, RMSE: 36.62
+2023-02-24 21:05:49,106 - __main__ - INFO - Horizon 04, MAE: 22.17, MAPE: 0.1445, RMSE: 36.24
+2023-02-24 21:05:49,106 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 21:06:26,508 - __main__ - INFO - Epoch:160, train_mae:18.95, val_mae:21.78476095199585, lr=[1e-05], time_elapsed:37.40142779999951
+2023-02-24 21:06:26,508 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 21:06:30,215 - __main__ - INFO - Horizon 01, MAE: 22.53, MAPE: 0.1337, RMSE: 37.31
+2023-02-24 21:06:30,216 - __main__ - INFO - Horizon 02, MAE: 22.46, MAPE: 0.1356, RMSE: 36.86
+2023-02-24 21:06:30,218 - __main__ - INFO - Horizon 03, MAE: 22.38, MAPE: 0.1385, RMSE: 36.56
+2023-02-24 21:06:30,219 - __main__ - INFO - Horizon 04, MAE: 22.19, MAPE: 0.1451, RMSE: 36.26
+2023-02-24 21:06:30,219 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 21:07:07,381 - __main__ - INFO - Epoch:161, train_mae:18.94, val_mae:21.7766375541687, lr=[1e-05], time_elapsed:37.16222319999997
+2023-02-24 21:07:07,382 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 21:07:11,159 - __main__ - INFO - Horizon 01, MAE: 22.52, MAPE: 0.1338, RMSE: 37.27
+2023-02-24 21:07:11,161 - __main__ - INFO - Horizon 02, MAE: 22.47, MAPE: 0.1358, RMSE: 36.87
+2023-02-24 21:07:11,162 - __main__ - INFO - Horizon 03, MAE: 22.41, MAPE: 0.1387, RMSE: 36.63
+2023-02-24 21:07:11,163 - __main__ - INFO - Horizon 04, MAE: 22.19, MAPE: 0.1452, RMSE: 36.27
+2023-02-24 21:07:11,163 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 21:07:48,154 - __main__ - INFO - Epoch:162, train_mae:18.94, val_mae:21.769996643066406, lr=[1e-05], time_elapsed:36.990402299999914
+2023-02-24 21:07:48,154 - __main__ - INFO - val_mae decreased from 21.77 to 21.77
+2023-02-24 21:07:48,154 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 21:07:52,041 - __main__ - INFO - Horizon 01, MAE: 22.51, MAPE: 0.1337, RMSE: 37.19
+2023-02-24 21:07:52,043 - __main__ - INFO - Horizon 02, MAE: 22.46, MAPE: 0.1357, RMSE: 36.86
+2023-02-24 21:07:52,044 - __main__ - INFO - Horizon 03, MAE: 22.39, MAPE: 0.1387, RMSE: 36.55
+2023-02-24 21:07:52,045 - __main__ - INFO - Horizon 04, MAE: 22.16, MAPE: 0.1450, RMSE: 36.20
+2023-02-24 21:07:52,045 - __main__ - INFO - Evaluation_test_End:
+2023-02-24 21:08:30,050 - __main__ - INFO - Epoch:163, train_mae:18.94, val_mae:21.774280071258545, lr=[1e-05], time_elapsed:38.004776499999934
+2023-02-24 21:08:30,051 - __main__ - INFO - Evaluation_test_Begin:
+2023-02-24 21:08:33,944 - __main__ - INFO - Horizon 01, MAE: 22.52, MAPE: 0.1339, RMSE: 37.27
+2023-02-24 21:08:33,945 - __main__ - INFO - Horizon 02, MAE: 22.46, MAPE: 0.1358, RMSE: 36.88
+2023-02-24 21:08:33,946 - __main__ - INFO - Horizon 03, MAE: 22.39, MAPE: 0.1387, RMSE: 36.60
+2023-02-24 21:08:33,947 - __main__ - INFO - Horizon 04, MAE: 22.19, MAPE: 0.1448, RMSE: 36.29
+2023-02-24 21:08:33,948 - __main__ - INFO - Evaluation_test_End:

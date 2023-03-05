@@ -1,0 +1,47 @@
+---
+base_dir: data/checkpoint/hz_trans_gcn
+log_level: INFO
+data:
+  batch_size: 8
+  dataset_dir: data/hangzhou
+  test_batch_size: 8
+  val_batch_size: 8
+  graph_pkl_filename: [ data/hangzhou/region_conn_0.9.pkl, data/hangzhou/graph_hz_sml.pkl, data/hangzhou/graph_hz_cor.pkl ]
+
+model:
+  type: dynamic
+  horizon: 4
+  input_dim: 2
+  output_dim: 256
+  l1_decay: 0
+  num_nodes: 80
+  seq_len: 4
+  dropout_type: zoneout
+  dropout_prob: 0.5
+  num_relations: 3
+  num_bases: 3
+  K: 3
+  norm: True
+  n_heads: 8
+  en_layers: 3
+  de_layers: 3
+  sim_rate: 0.3
+  save_path:
+
+train:
+  base_lr: 0.001
+  epoch: 0
+  epochs: 210
+  epsilon: 1.0e-4
+  global_step: 0
+  lr_decay_ratio: 0.1
+  max_grad_norm: 5
+  max_to_keep: 100
+  #  min_learning_rate: 2.0e-06
+  min_learning_rate: 2.0e-07
+  optimizer: adam
+  patience: 100
+  steps: [ 100, 150, 200 ]
+  test_every_n_epochs: 1
+  save_every_n_epochs: 50
+  log_dir:
